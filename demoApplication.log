@@ -1,0 +1,1072 @@
+[main] INFO  com.serheev.beans.FirstBean  - Serheev
+[main] INFO  com.serheev.beans.FirstBean  - Yuriy Serheev
+[main] INFO  com.serheev.beans.FirstBean  - Yuriy Serheev
+[main] INFO  com.serheev.beans.FirstBean  - Hello!, YuriySerheev!
+[main] INFO  com.serheev.beans.FirstBean  - Hello!, Yuriy Serheev!
+[main] INFO  com.serheev.beans.FirstBean  - Hello, Yuriy Serheev!
+[main] INFO  com.serheev.beans.FirstBean  - Playing: Bohemian Rhapsody
+[main] INFO  com.serheev.beans.FirstBean  - Playing: Bohemian Rhapsody
+[main] INFO  com.serheev.beans.FirstBean  - Playing: Bohemian Rhapsody
+[main] INFO  com.serheev.beans.FirstBean  - Playing: Wind cries Mary
+[main] INFO  com.serheev.beans.FirstBean  - Playing: Wind cries Mary
+[main] INFO  com.serheev.beans.FirstBean  - Playing: Bohemian Rhapsody
+[main] INFO  com.serheev.beans.FirstBean  - Playing: Bohemian Rhapsody
+[main] INFO  com.serheev.beans.FirstBean  - Playing: Bohemian Rhapsody
+[main] INFO  com.serheev.beans.FirstBean  - Walkman
+[main] INFO  com.serheev.beans.FirstBean  - 7
+[main] INFO  com.serheev.beans.FirstBean  - Playing: Bohemian Rhapsody
+[main] INFO  com.serheev.beans.FirstBean  - Some name
+[main] INFO  com.serheev.beans.FirstBean  - 8
+[main] INFO  com.serheev.beans.FirstBean  - true
+[main] INFO  com.serheev.beans.FirstBean  - com.serheev.beans.MusicPlayer@45820e51
+[main] INFO  com.serheev.beans.FirstBean  - com.serheev.beans.MusicPlayer@45820e51
+[main] INFO  com.serheev.beans.FirstBean  - true
+[main] INFO  com.serheev.beans.FirstBean  - com.serheev.beans.MusicPlayer@6043cd28
+[main] INFO  com.serheev.beans.FirstBean  - com.serheev.beans.MusicPlayer@6043cd28
+[main] INFO  com.serheev.beans.FirstBean  - 12
+[main] INFO  com.serheev.beans.FirstBean  - 12
+[main] INFO  com.serheev.beans.FirstBean  - false
+[main] INFO  com.serheev.beans.FirstBean  - com.serheev.beans.MusicPlayer@6043cd28
+[main] INFO  com.serheev.beans.FirstBean  - com.serheev.beans.MusicPlayer@cb51256
+[main] INFO  com.serheev.beans.FirstBean  - 12
+[main] INFO  com.serheev.beans.FirstBean  - 8
+[main] INFO  com.serheev.beans.FirstBean  - false
+[main] INFO  com.serheev.beans.FirstBean  - com.serheev.beans.MusicPlayer@6043cd28
+[main] INFO  com.serheev.beans.FirstBean  - com.serheev.beans.MusicPlayer@cb51256
+[main] INFO  com.serheev.beans.FirstBean  - 12
+[main] INFO  com.serheev.beans.FirstBean  - 8
+[main] INFO  com.serheev.beans.FirstBean  - false
+[main] INFO  com.serheev.beans.FirstBean  - com.serheev.beans.MusicPlayer@6043cd28
+[main] INFO  com.serheev.beans.FirstBean  - com.serheev.beans.MusicPlayer@cb51256
+[main] INFO  com.serheev.beans.FirstBean  - 12
+[main] INFO  com.serheev.beans.FirstBean  - 8
+[main] INFO  com.serheev.beans.FirstBean  - true
+[main] INFO  com.serheev.beans.FirstBean  - com.serheev.beans.CarFactoryBean@4d50efb8
+[main] INFO  com.serheev.beans.FirstBean  - com.serheev.beans.CarFactoryBean@4d50efb8
+[main] INFO  com.serheev.beans.FirstBean  - A8
+[main] INFO  com.serheev.beans.FirstBean  - A8
+[main] INFO  com.serheev.beans.FirstBean  - false
+[main] INFO  com.serheev.beans.FirstBean  - com.serheev.beans.CarFactoryBean@4d50efb8
+[main] INFO  com.serheev.beans.FirstBean  - com.serheev.beans.CarFactoryBean@7e2d773b
+[main] INFO  com.serheev.beans.FirstBean  - A8
+[main] INFO  com.serheev.beans.FirstBean  - A6
+[main] INFO  com.serheev.beans.FirstBean  - false
+[main] INFO  com.serheev.beans.FirstBean  - com.serheev.beans.CarFactoryBean@4d50efb8
+[main] INFO  com.serheev.beans.FirstBean  - com.serheev.beans.CarFactoryBean@7e2d773b
+[main] INFO  com.serheev.beans.FirstBean  - A8
+[main] INFO  com.serheev.beans.FirstBean  - A6
+[main] INFO  com.serheev.beans.FirstBean  - A8
+[main] INFO  com.serheev.beans.FirstBean  - Simon says: This is a Audi car.
+[main] INFO  com.serheev.beans.FirstBean  - A6
+[main] INFO  com.serheev.beans.FirstBean  - Simon says: This is a BWM car.
+[main] INFO  com.serheev.beans.FirstBean  - true
+[main] INFO  com.serheev.beans.FirstBean  - com.serheev.beans.CarFactoryBean@4d50efb8
+[main] INFO  com.serheev.beans.FirstBean  - com.serheev.beans.CarFactoryBean@4d50efb8
+[main] INFO  com.serheev.beans.FirstBean  - A8
+[main] INFO  com.serheev.beans.FirstBean  - A8
+[main] INFO  com.serheev.beans.FirstBean  - A8
+[main] INFO  com.serheev.beans.FirstBean  - Simon says: This is a Audi car.
+[main] INFO  com.serheev.beans.FirstBean  - A8
+[main] INFO  com.serheev.beans.FirstBean  - Simon says: This is a Audi car.
+[main] INFO  com.serheev.beans.FirstBean  - true
+[main] INFO  com.serheev.beans.FirstBean  - com.serheev.beans.CarFactoryBean@467aecef
+[main] INFO  com.serheev.beans.FirstBean  - com.serheev.beans.CarFactoryBean@467aecef
+[main] INFO  com.serheev.beans.FirstBean  - A8
+[main] INFO  com.serheev.beans.FirstBean  - A8
+[main] INFO  com.serheev.beans.FirstBean  - A8
+[main] INFO  com.serheev.beans.FirstBean  - A8
+[main] INFO  com.serheev.beans.FirstBean  - true
+[main] INFO  com.serheev.beans.FirstBean  - com.serheev.beans.CarFactoryBean@467aecef
+[main] INFO  com.serheev.beans.FirstBean  - com.serheev.beans.CarFactoryBean@467aecef
+[main] INFO  com.serheev.beans.FirstBean  - A8
+[main] INFO  com.serheev.beans.FirstBean  - A8
+[main] INFO  com.serheev.beans.FirstBean  - A8
+[main] INFO  com.serheev.beans.FirstBean  - A8
+[main] INFO  com.serheev.beans.FirstBean  - true
+[main] INFO  com.serheev.beans.FirstBean  - com.serheev.beans.CarFactoryBean@467aecef
+[main] INFO  com.serheev.beans.FirstBean  - com.serheev.beans.CarFactoryBean@467aecef
+[main] INFO  com.serheev.beans.FirstBean  - A8
+[main] INFO  com.serheev.beans.FirstBean  - A8
+[main] INFO  com.serheev.beans.FirstBean  - A8
+[main] INFO  com.serheev.beans.FirstBean  - A8
+[main] INFO  com.serheev.beans.FirstBean  - Simon says: This is a Audi car. : Some Model : Petrol : MANUAL
+[main] INFO  com.serheev.beans.FirstBean  - true
+[main] INFO  com.serheev.beans.FirstBean  - com.serheev.beans.CarFactoryBean@467aecef
+[main] INFO  com.serheev.beans.FirstBean  - com.serheev.beans.CarFactoryBean@467aecef
+[main] INFO  com.serheev.beans.FirstBean  - A8
+[main] INFO  com.serheev.beans.FirstBean  - A8
+[main] INFO  com.serheev.beans.FirstBean  - A8
+[main] INFO  com.serheev.beans.FirstBean  - A8
+[main] INFO  com.serheev.beans.FirstBean  - Simon says: This is a Audi car. : Some Model : Petrol : MANUAL
+[main] INFO  com.serheev.beans.FirstBean  - Simon says: This is a Audi car. : A6 : Petrol : MANUAL
+[main] INFO  com.serheev.beans.FirstBean  - true
+[main] INFO  com.serheev.beans.FirstBean  - com.serheev.beans.CarFactoryBean@467aecef
+[main] INFO  com.serheev.beans.FirstBean  - com.serheev.beans.CarFactoryBean@467aecef
+[main] INFO  com.serheev.beans.FirstBean  - A8
+[main] INFO  com.serheev.beans.FirstBean  - A8
+[main] INFO  com.serheev.beans.FirstBean  - A8
+[main] INFO  com.serheev.beans.FirstBean  - A8
+[main] INFO  com.serheev.beans.FirstBean  - Simon says: This is a Audi car. : Some Model : Petrol : MANUAL
+[main] INFO  com.serheev.beans.FirstBean  - Simon says: This is a Audi car. : A6 : Diesel : Auto
+[main] INFO  com.serheev.beans.FirstBean  - true
+[main] INFO  com.serheev.beans.FirstBean  - com.serheev.beans.CarFactoryBean@467aecef
+[main] INFO  com.serheev.beans.FirstBean  - com.serheev.beans.CarFactoryBean@467aecef
+[main] INFO  com.serheev.beans.FirstBean  - A8
+[main] INFO  com.serheev.beans.FirstBean  - A8
+[main] INFO  com.serheev.beans.FirstBean  - A8
+[main] INFO  com.serheev.beans.FirstBean  - A8
+[main] INFO  com.serheev.beans.FirstBean  - Simon says: This is a Audi car. : Some Model : Petrol : MANUAL
+[main] INFO  com.serheev.beans.FirstBean  - Simon says: This is a Audi car. : A6 : Diesel : Auto
+[main] INFO  com.serheev.beans.FirstBean  - true
+[main] INFO  com.serheev.beans.FirstBean  - com.serheev.beans.CarFactoryBean@467aecef
+[main] INFO  com.serheev.beans.FirstBean  - com.serheev.beans.CarFactoryBean@467aecef
+[main] INFO  com.serheev.beans.FirstBean  - A8
+[main] INFO  com.serheev.beans.FirstBean  - A8
+[main] INFO  com.serheev.beans.FirstBean  - A8
+[main] INFO  com.serheev.beans.FirstBean  - A8
+[main] INFO  com.serheev.beans.FirstBean  - Simon says: This is a Audi car. : Some Model : Petrol : MANUAL
+[main] INFO  com.serheev.beans.FirstBean  - Simon says: This is a Audi car. : A6 : Diesel : Auto
+[main] INFO  com.serheev.beans.FirstBean  - Simon says: This is a Audi car : Some Model : Petrol : MANUAL
+[main] INFO  com.serheev.beans.FirstBean  - Simon says: This is a Audi car : A6 : Diesel : Auto
+[main] INFO  com.serheev.beans.FirstBean  - Simon says: This is a Audi car : Passenger car : Petrol : MANUAL
+[main] INFO  com.serheev.beans.FirstBean  - Simon says: This is a Audi car : A6 : Diesel : Auto
+[main] INFO  com.serheev.beans.FirstBean  - Simon says: This is a Passenger car : Passenger car : Petrol : MANUAL
+[main] INFO  com.serheev.beans.FirstBean  - Simon says: This is a Passenger car : SUV : Diesel : Auto
+[main] INFO  com.serheev.beans.FirstBean  - Simon says: This is a Passenger car : Unknown model : Petrol : MANUAL
+[main] INFO  com.serheev.beans.FirstBean  - Simon says: This is a Passenger car : A6 : Diesel : Auto
+[main] INFO  com.serheev.beans.FirstBean  - Simon says: This is a Passenger car (Unknown model : Petrol : MANUAL)
+[main] INFO  com.serheev.beans.FirstBean  - Simon says: This is a Passenger car (A6 : Diesel : Auto)
+[main] INFO  com.serheev.beans.FirstBean  - Simon says: This is a Passenger car (Unknown model : Petrol : Manual)
+[main] INFO  com.serheev.beans.FirstBean  - Simon says: This is a Passenger car (A6 : Diesel : Auto)
+[main] INFO  com.serheev.beans.FirstBean  - Simon says - This is a Passenger car (Unknown model : Petrol : Manual)
+[main] INFO  com.serheev.beans.FirstBean  - Simon says - This is a Passenger car (A6 : Diesel : Auto)
+[main] INFO  com.serheev.beans.CarFactoryBean  - Simon says - This is a Passenger car (Unknown model : Petrol : Manual)
+[main] INFO  com.serheev.beans.CarFactoryBean  - Simon says - This is a Passenger car (A6 : Diesel : Auto)
+[main] INFO  com.serheev.beans.CarFactoryBean  - Simon says - This is a Passenger car (Unknown model : Petrol : Manual)
+[main] INFO  com.serheev.beans.CarFactoryBean  - Simon says - This is a Passenger car (Unknown model : Petrol : Manual)
+[main] INFO  com.serheev.beans.CarFactoryBean  - Simon says - This is a Passenger car (M5 : Diesel : Auto)
+[main] INFO  com.serheev.beans.CarFactoryBean  - Simon says - This is a Passenger car (M5 : Diesel : Auto)
+[main] INFO  com.serheev.beans.CarFactoryBean  - Simon says - This is a Passenger car (Unknown model : Petrol : Manual)
+[main] INFO  com.serheev.beans.CarFactoryBean  - Simon says - This is a Passenger car (Unknown model : Petrol : Manual)
+[main] INFO  com.serheev.beans.CarFactoryBean  - Simon says - This is a Passenger car (M5 : Diesel : Auto)
+[main] INFO  com.serheev.beans.CarFactoryBean  - Simon says - This is a Passenger car (M5 : Diesel : Auto)
+[main] INFO  com.serheev.beans.CarFactoryBean  - Simon says - This is a Passenger car (Unknown model : Petrol : Manual)
+[main] INFO  com.serheev.beans.CarFactoryBean  - Simon says - This is a Passenger car (Unknown model : Petrol : Manual)
+[main] INFO  com.serheev.beans.CarFactoryBean  - Simon says - This is a Passenger car (M5 : Diesel : Auto)
+[main] INFO  com.serheev.beans.CarFactoryBean  - Simon says - This is a Passenger car (M5 : Diesel : Auto)
+[main] INFO  com.serheev.beans.CarFactoryBean  - Simon says - This is a Passenger car (Unknown model : Petrol : Manual)
+[main] INFO  com.serheev.beans.CarFactoryBean  - Simon says - This is a Passenger car (Unknown model : Petrol : Manual)
+[main] INFO  com.serheev.beans.CarFactoryBean  - Simon says - This is a Passenger car (M5 : Petrol : Manual)
+[main] INFO  com.serheev.beans.CarFactoryBean  - Simon says - This is a Passenger car (M5 : Petrol : Manual)
+[main] INFO  com.serheev.beans.CarFactoryBean  - Simon says - This is a Passenger car (Unknown model : Petrol : Manual)
+[main] INFO  com.serheev.beans.CarFactoryBean  - Simon says - This is a Passenger car (Unknown model : Petrol : Manual)
+[main] INFO  com.serheev.beans.CarFactoryBean  - Simon says - This is a Passenger car (M5 : Petrol : Manual)
+[main] INFO  com.serheev.beans.CarFactoryBean  - Simon says - This is a Passenger car (M5 : Petrol : Manual)
+[main] INFO  com.serheev.beans.CarFactoryBean  - Simon says - This is a Passenger car (Unknown model : Petrol : Manual)
+[main] INFO  com.serheev.beans.CarFactoryBean  - Simon says - This is a Passenger car (Unknown model : Petrol : Manual)
+[main] INFO  com.serheev.beans.CarFactoryBean  - Simon says - This is a Passenger car (M5 : Petrol : Manual)
+[main] INFO  com.serheev.beans.CarFactoryBean  - Simon says - This is a Passenger car (M5 : Petrol : Manual)
+[main] INFO  com.serheev.app.RunSpring  - true
+[main] INFO  com.serheev.beans.CarFactoryBean  - Simon says - This is a Passenger car (Unknown model : Petrol : Manual)
+[main] INFO  com.serheev.beans.CarFactoryBean  - Simon says - This is a Passenger car (Unknown model : Petrol : Manual)
+[main] INFO  com.serheev.beans.CarFactoryBean  - Simon says - This is a Passenger car (M5 : Petrol : Manual)
+[main] INFO  com.serheev.beans.CarFactoryBean  - Simon says - This is a Passenger car (M5 : Petrol : Manual)
+[main] INFO  com.serheev.app.RunSpring  - true
+[main] INFO  com.serheev.app.RunSpring  - com.serheev.beans.CarFactoryBean@3dfc5fb8
+[main] INFO  com.serheev.app.RunSpring  - com.serheev.beans.CarFactoryBean@3dfc5fb8
+[main] INFO  com.serheev.beans.CarFactoryBean  - Simon says - This is a Passenger car (Unknown model : Petrol : Manual)
+[main] INFO  com.serheev.beans.CarFactoryBean  - Simon says - This is a Passenger car (Unknown model : Petrol : Manual)
+[main] INFO  com.serheev.beans.CarFactoryBean  - Simon says - This is a Passenger car (A6 : Petrol : Manual)
+[main] INFO  com.serheev.beans.CarFactoryBean  - Simon says - This is a Passenger car (M5 : Petrol : Manual)
+[main] INFO  com.serheev.app.RunSpring  - false
+[main] INFO  com.serheev.app.RunSpring  - com.serheev.beans.CarFactoryBean@2a742aa2
+[main] INFO  com.serheev.app.RunSpring  - com.serheev.beans.CarFactoryBean@3cb1ffe6
+[main] INFO  com.serheev.beans.CarFactoryBean  - Simon says - This is a Passenger car (Unknown model : Petrol : Manual)
+[main] INFO  com.serheev.beans.CarFactoryBean  - Simon says - This is a Passenger car (Unknown model : Petrol : Manual)
+[main] INFO  com.serheev.beans.CarFactoryBean  - Simon says - This is a Passenger car (A6 : Petrol : Manual)
+[main] INFO  com.serheev.beans.CarFactoryBean  - Simon says - This is a Passenger car (M5 : Petrol : Manual)
+[main] INFO  com.serheev.app.RunSpring  - false
+[main] INFO  com.serheev.app.RunSpring  - com.serheev.beans.CarFactoryBean@467aecef
+[main] INFO  com.serheev.app.RunSpring  - com.serheev.beans.CarFactoryBean@4d50efb8
+[main] INFO  com.serheev.beans.CarFactoryBean  - Simon says - This is a Passenger car (Unknown model : Petrol : Manual)
+[main] INFO  com.serheev.beans.CarFactoryBean  - Simon says - This is a Passenger car (Unknown model : Petrol : Manual)
+[main] INFO  com.serheev.beans.CarFactoryBean  - Simon says - This is a Passenger car (Unknown model : Petrol : Manual)
+[main] INFO  com.serheev.beans.CarFactoryBean  - Simon says - This is a Passenger car (Unknown model : Petrol : Manual)
+[main] INFO  com.serheev.beans.CarFactoryBean  - Simon says - This is a Passenger car (A6 : Petrol : Manual)
+[main] INFO  com.serheev.beans.CarFactoryBean  - Simon says - This is a Passenger car (M5 : Petrol : Manual)
+[main] INFO  com.serheev.beans.CarFactoryBean  - Simon says - This is a Passenger car (TGS : Petrol : Manual)
+[main] INFO  com.serheev.beans.CarFactoryBean  - Simon says - This is a Passenger car (Euro 6 : Petrol : Manual)
+[main] INFO  com.serheev.app.RunSpring  - false
+[main] INFO  com.serheev.app.RunSpring  - com.serheev.beans.CarFactoryBean@3dfc5fb8
+[main] INFO  com.serheev.app.RunSpring  - com.serheev.beans.CarFactoryBean@467aecef
+[main] INFO  com.serheev.beans.CarFactoryBean  - Simon says - This is a Passenger car (Unknown model : Petrol : Manual)
+[main] INFO  com.serheev.beans.CarFactoryBean  - Simon says - This is a Passenger car (Unknown model : Petrol : Manual)
+[main] INFO  com.serheev.beans.CarFactoryBean  - Simon says - This is a Truck (Unknown model : Petrol : Manual)
+[main] INFO  com.serheev.beans.CarFactoryBean  - Simon says - This is a Truck (Unknown model : Petrol : Manual)
+[main] INFO  com.serheev.beans.CarFactoryBean  - Simon says - This is a Passenger car (A6 : Petrol : Manual)
+[main] INFO  com.serheev.beans.CarFactoryBean  - Simon says - This is a Passenger car (M5 : Petrol : Manual)
+[main] INFO  com.serheev.beans.CarFactoryBean  - Simon says - This is a Truck (TGS : Petrol : Manual)
+[main] INFO  com.serheev.beans.CarFactoryBean  - Simon says - This is a Truck (Euro 6 : Petrol : Manual)
+[main] INFO  com.serheev.app.RunSpring  - false
+[main] INFO  com.serheev.app.RunSpring  - com.serheev.beans.CarFactoryBean@467aecef
+[main] INFO  com.serheev.app.RunSpring  - com.serheev.beans.CarFactoryBean@4d50efb8
+[main] INFO  com.serheev.beans.CarFactoryBean  - Simon says - This is a Passenger car (Unknown model : Petrol : Manual)
+[main] INFO  com.serheev.beans.CarFactoryBean  - Simon says - This is a Passenger car (Unknown model : Petrol : Manual)
+[main] INFO  com.serheev.beans.CarFactoryBean  - Simon says - This is a Truck (Unknown model : Petrol : Manual)
+[main] INFO  com.serheev.beans.CarFactoryBean  - Simon says - This is a Truck (Unknown model : Petrol : Manual)
+[main] INFO  com.serheev.beans.CarFactoryBean  - Simon says - This is a Passenger car (A6 : Petrol : Manual)
+[main] INFO  com.serheev.beans.CarFactoryBean  - Simon says - This is a Passenger car (M5 : Petrol : Manual)
+[main] INFO  com.serheev.beans.CarFactoryBean  - Simon says - This is a Truck (TGS : Petrol : Manual)
+[main] INFO  com.serheev.beans.CarFactoryBean  - Simon says - This is a Truck (Euro 6 : Petrol : Manual)
+[main] INFO  com.serheev.app.RunSpring  - false
+[main] INFO  com.serheev.app.RunSpring  - com.serheev.beans.CarFactoryBean@467aecef
+[main] INFO  com.serheev.app.RunSpring  - com.serheev.beans.CarFactoryBean@4d50efb8
+[main] INFO  com.serheev.beans.CarFactoryBean  - Simon says - This is a Passenger car (Unknown model : Petrol : Manual)
+[main] INFO  com.serheev.beans.CarFactoryBean  - Simon says - This is a Passenger car (Unknown model : Petrol : Manual)
+[main] INFO  com.serheev.beans.CarFactoryBean  - Simon says - This is a Truck (Unknown model : Petrol : Manual)
+[main] INFO  com.serheev.beans.CarFactoryBean  - Simon says - This is a Truck (Unknown model : Petrol : Manual)
+[main] INFO  com.serheev.beans.CarFactoryBean  - Simon says - This is a Passenger car (A6 : Petrol : Manual)
+[main] INFO  com.serheev.beans.CarFactoryBean  - Simon says - This is a Passenger car (M5 : Petrol : Manual)
+[main] INFO  com.serheev.beans.CarFactoryBean  - Simon says - This is a Truck (TGS : Petrol : Manual)
+[main] INFO  com.serheev.beans.CarFactoryBean  - Simon says - This is a Truck (Euro 6 : Petrol : Manual)
+[main] INFO  com.serheev.app.RunSpring  - false
+[main] INFO  com.serheev.app.RunSpring  - com.serheev.beans.CarFactoryBean@2173f6d9
+[main] INFO  com.serheev.app.RunSpring  - com.serheev.beans.CarFactoryBean@307f6b8c
+[main] INFO  com.serheev.beans.CarFactoryBean  - Simon says - This is a Passenger car (Unknown model : Petrol : Manual)
+[main] INFO  com.serheev.beans.CarFactoryBean  - Simon says - This is a Passenger car (Unknown model : Petrol : Manual)
+[main] INFO  com.serheev.beans.CarFactoryBean  - Simon says - This is a Truck (Unknown model : Petrol : Manual)
+[main] INFO  com.serheev.beans.CarFactoryBean  - Simon says - This is a Truck (Unknown model : Petrol : Manual)
+[main] INFO  com.serheev.beans.CarFactoryBean  - Simon says - This is a Passenger car (A6 : Petrol : Manual)
+[main] INFO  com.serheev.beans.CarFactoryBean  - Simon says - This is a Passenger car (M5 : Petrol : Manual)
+[main] INFO  com.serheev.beans.CarFactoryBean  - Simon says - This is a Truck (TGS : Petrol : Manual)
+[main] INFO  com.serheev.beans.CarFactoryBean  - Simon says - This is a Truck (Euro 6 : Petrol : Manual)
+[main] INFO  com.serheev.app.RunSpring  - false
+[main] INFO  com.serheev.app.RunSpring  - com.serheev.beans.CarFactoryBean@2173f6d9
+[main] INFO  com.serheev.app.RunSpring  - com.serheev.beans.CarFactoryBean@307f6b8c
+[main] INFO  com.serheev.beans.CarFactoryBean  - Simon says - This is a Passenger car (Unknown model : Petrol : Manual)
+[main] INFO  com.serheev.beans.CarFactoryBean  - Simon says - This is a Passenger car (Unknown model : Petrol : Manual)
+[main] INFO  com.serheev.beans.CarFactoryBean  - Simon says - This is a Truck (Unknown model : Petrol : Manual)
+[main] INFO  com.serheev.beans.CarFactoryBean  - Simon says - This is a Truck (Unknown model : Petrol : Manual)
+[main] INFO  com.serheev.beans.CarFactoryBean  - Simon says - This is a Passenger car (A6 : Petrol : Manual)
+[main] INFO  com.serheev.beans.CarFactoryBean  - Simon says - This is a Passenger car (M5 : Petrol : Manual)
+[main] INFO  com.serheev.beans.CarFactoryBean  - Simon says - This is a Truck (TGS : Petrol : Manual)
+[main] INFO  com.serheev.beans.CarFactoryBean  - Simon says - This is a Truck (Euro 6 : Petrol : Manual)
+[main] INFO  com.serheev.app.RunSpring  - false
+[main] INFO  com.serheev.app.RunSpring  - com.serheev.beans.CarFactoryBean@2173f6d9
+[main] INFO  com.serheev.app.RunSpring  - com.serheev.beans.CarFactoryBean@307f6b8c
+[main] INFO  com.serheev.beans.CarFactoryBean  - Simon says - This is a Passenger car (Unknown model : Petrol : Manual)
+[main] INFO  com.serheev.beans.CarFactoryBean  - Simon says - This is a Passenger car (Unknown model : Petrol : Manual)
+[main] INFO  com.serheev.beans.CarFactoryBean  - Simon says - This is a Truck (Unknown model : Petrol : Manual)
+[main] INFO  com.serheev.beans.CarFactoryBean  - Simon says - This is a Truck (Unknown model : Petrol : Manual)
+[main] INFO  com.serheev.beans.CarFactoryBean  - Simon says - This is a Passenger car (A6 : Petrol : Manual)
+[main] INFO  com.serheev.beans.CarFactoryBean  - Simon says - This is a Passenger car (M5 : Petrol : Manual)
+[main] INFO  com.serheev.beans.CarFactoryBean  - Simon says - This is a Truck (TGS : Petrol : Manual)
+[main] INFO  com.serheev.beans.CarFactoryBean  - Simon says - This is a Truck (Euro 6 : Petrol : Manual)
+[main] INFO  com.serheev.app.RunSpring  - false
+[main] INFO  com.serheev.app.RunSpring  - com.serheev.beans.CarFactoryBean@7e2d773b
+[main] INFO  com.serheev.app.RunSpring  - com.serheev.beans.CarFactoryBean@2173f6d9
+[main] INFO  com.serheev.beans.CarFactoryBean  - Simon says - This is a Passenger car (Unknown model : Petrol : Manual)
+[main] INFO  com.serheev.beans.CarFactoryBean  - Simon says - This is a Passenger car (Unknown model : Petrol : Manual)
+[main] INFO  com.serheev.beans.CarFactoryBean  - Simon says - This is a Truck (Unknown model : Petrol : Manual)
+[main] INFO  com.serheev.beans.CarFactoryBean  - Simon says - This is a Truck (Unknown model : Petrol : Manual)
+[main] INFO  com.serheev.beans.CarFactoryBean  - Simon says - This is a Passenger car (A6 : Petrol : Manual)
+[main] INFO  com.serheev.beans.CarFactoryBean  - Simon says - This is a Passenger car (M5 : Petrol : Manual)
+[main] INFO  com.serheev.beans.CarFactoryBean  - Simon says - This is a Truck (TGS : Petrol : Manual)
+[main] INFO  com.serheev.beans.CarFactoryBean  - Simon says - This is a Truck (Euro 6 : Petrol : Manual)
+[main] INFO  com.serheev.app.RunSpring  - false
+[main] INFO  com.serheev.app.RunSpring  - com.serheev.beans.CarFactoryBean@7e2d773b
+[main] INFO  com.serheev.app.RunSpring  - com.serheev.beans.CarFactoryBean@2173f6d9
+[main] INFO  com.serheev.beans.CarFactoryBean  - Simon says - This is a Passenger car (Unknown model : Petrol : Manual)
+[main] INFO  com.serheev.beans.CarFactoryBean  - Simon says - This is a Passenger car (Unknown model : Petrol : Manual)
+[main] INFO  com.serheev.beans.CarFactoryBean  - Simon says - This is a Truck (Unknown model : Petrol : Manual)
+[main] INFO  com.serheev.beans.CarFactoryBean  - Simon says - This is a Truck (Unknown model : Petrol : Manual)
+[main] INFO  com.serheev.beans.CarFactoryBean  - I'm driving a car. I have to do null
+[main] INFO  com.serheev.beans.CarFactoryBean  - I'm driving a car. I have to do null
+[main] INFO  com.serheev.beans.CarFactoryBean  - Simon says - This is a Passenger car (A6 : Petrol : Manual)
+[main] INFO  com.serheev.beans.CarFactoryBean  - Simon says - This is a Passenger car (M5 : Petrol : Manual)
+[main] INFO  com.serheev.beans.CarFactoryBean  - Simon says - This is a Truck (TGS : Petrol : Manual)
+[main] INFO  com.serheev.beans.CarFactoryBean  - Simon says - This is a Truck (Euro 6 : Petrol : Manual)
+[main] INFO  com.serheev.app.RunSpring  - false
+[main] INFO  com.serheev.app.RunSpring  - com.serheev.beans.CarFactoryBean@7e2d773b
+[main] INFO  com.serheev.app.RunSpring  - com.serheev.beans.CarFactoryBean@2173f6d9
+[main] INFO  com.serheev.beans.CarFactoryBean  - I'm driving a car. I have to do Some work
+[main] INFO  com.serheev.beans.CarFactoryBean  - I'm driving a car. I have to do Some work
+[main] INFO  com.serheev.beans.CarFactoryBean  - I'm driving a car. I have to do Some work
+[main] INFO  com.serheev.beans.CarFactoryBean  - I'm driving a car. I have to do Some work
+[main] INFO  com.serheev.beans.HRDepartmentBean  - I'm driving a car. I have to do Some work
+[main] INFO  com.serheev.beans.HRDepartmentBean  - I'm driving a car. I have to do Some work
+[main] INFO  com.serheev.beans.HRDepartmentBean  - I'm driving a car. I have to do null
+[main] INFO  com.serheev.beans.HRDepartmentBean  - I'm driving a car. I have to do null
+[main] INFO  com.serheev.beans.HRDepartmentBean  - I'm driving a car. I have to do drive a car
+[main] INFO  com.serheev.beans.HRDepartmentBean  - I'm driving a car. I have to do drive a car
+[main] INFO  com.serheev.beans.HRDepartmentBean  - I'm driving a car. I have to do drive a car
+[main] INFO  com.serheev.beans.HRDepartmentBean  - I'm driving a car. I have to do drive a car
+[main] INFO  com.serheev.beans.HRDepartmentBean  - I'm a driver!. I have to do drive a car
+[main] INFO  com.serheev.beans.HRDepartmentBean  - I'm a driver!. I have to do drive a car
+[main] INFO  com.serheev.beans.HRDepartmentBean  - I'm a driver!. I have to do drive a car
+[main] INFO  com.serheev.beans.HRDepartmentBean  - I'm a driver!. I have to do drive a car
+[main] INFO  com.serheev.beans.HRDepartmentBean  - I'm a driver!. I have to do drive a car
+[main] INFO  com.serheev.beans.HRDepartmentBean  - I'm a driver!. I have to do drive a car
+[main] INFO  com.serheev.beans.HRDepartmentBean  - I'm a driver!. I have to do drive a car
+[main] INFO  com.serheev.beans.HRDepartmentBean  - I'm a driver!. I have to do drive a car
+[main] INFO  com.serheev.beans.HRDepartmentBean  - I'm a driver!. I have to do drive a car
+[main] INFO  com.serheev.beans.HRDepartmentBean  - I'm a driver!. I have to do drive a car
+[main] INFO  com.serheev.beans.CarFactoryBean  - Simon says - This is a Passenger car (Unknown model : Petrol : Manual)
+[main] INFO  com.serheev.beans.CarFactoryBean  - Simon says - This is a Passenger car (Unknown model : Petrol : Manual)
+[main] INFO  com.serheev.beans.CarFactoryBean  - Simon says - This is a Truck (Unknown model : Petrol : Manual)
+[main] INFO  com.serheev.beans.CarFactoryBean  - Simon says - This is a Truck (Unknown model : Petrol : Manual)
+[main] INFO  com.serheev.beans.CarFactoryBean  - Simon says - This is a Passenger car (A6 : Petrol : Manual)
+[main] INFO  com.serheev.beans.CarFactoryBean  - Simon says - This is a Passenger car (M5 : Petrol : Manual)
+[main] INFO  com.serheev.beans.CarFactoryBean  - Simon says - This is a Truck (TGS : Petrol : Manual)
+[main] INFO  com.serheev.beans.CarFactoryBean  - Simon says - This is a Truck (Euro 6 : Petrol : Manual)
+[main] INFO  com.serheev.app.RunSpring  - false
+[main] INFO  com.serheev.app.RunSpring  - com.serheev.beans.CarFactoryBean@2173f6d9
+[main] INFO  com.serheev.app.RunSpring  - com.serheev.beans.CarFactoryBean@307f6b8c
+[main] INFO  com.serheev.beans.HRDepartmentBean  - I'm a driver!. I have to do drive a car
+[main] INFO  com.serheev.beans.HRDepartmentBean  - I'm a driver!. I have to do drive a car
+[main] INFO  com.serheev.beans.HRDepartmentBean  - I'm a mechanic!. I have to do fix a car
+[main] INFO  com.serheev.beans.HRDepartmentBean  - I'm a mechanic!. I have to do fix a car
+[main] INFO  com.serheev.beans.CarFactoryBean  - Simon says - This is a Passenger car (Unknown model : Petrol : Manual)
+[main] INFO  com.serheev.beans.CarFactoryBean  - Simon says - This is a Passenger car (Unknown model : Petrol : Manual)
+[main] INFO  com.serheev.beans.CarFactoryBean  - Simon says - This is a Truck (Unknown model : Petrol : Manual)
+[main] INFO  com.serheev.beans.CarFactoryBean  - Simon says - This is a Truck (Unknown model : Petrol : Manual)
+[main] INFO  com.serheev.beans.CarFactoryBean  - Simon says - This is a Passenger car (A6 : Petrol : Manual)
+[main] INFO  com.serheev.beans.CarFactoryBean  - Simon says - This is a Passenger car (M5 : Petrol : Manual)
+[main] INFO  com.serheev.beans.CarFactoryBean  - Simon says - This is a Truck (TGS : Petrol : Manual)
+[main] INFO  com.serheev.beans.CarFactoryBean  - Simon says - This is a Truck (Euro 6 : Petrol : Manual)
+[main] INFO  com.serheev.app.RunSpring  - false
+[main] INFO  com.serheev.app.RunSpring  - com.serheev.beans.CarFactoryBean@2173f6d9
+[main] INFO  com.serheev.app.RunSpring  - com.serheev.beans.CarFactoryBean@307f6b8c
+[main] INFO  com.serheev.beans.HRDepartmentBean  - I'm a driver!. I have to do drive a car
+[main] INFO  com.serheev.beans.HRDepartmentBean  - I'm a driver!. I have to do drive a car
+[main] INFO  com.serheev.beans.HRDepartmentBean  - I'm a mechanic!. I have to do fix a car
+[main] INFO  com.serheev.beans.HRDepartmentBean  - I'm a mechanic!. I have to do fix a car
+[main] INFO  com.serheev.beans.CarFactoryBean  - Simon says - This is a Passenger car (Unknown model : Petrol : Manual)
+[main] INFO  com.serheev.beans.CarFactoryBean  - Simon says - This is a Passenger car (Unknown model : Petrol : Manual)
+[main] INFO  com.serheev.beans.CarFactoryBean  - Simon says - This is a Truck (Unknown model : Petrol : Manual)
+[main] INFO  com.serheev.beans.CarFactoryBean  - Simon says - This is a Truck (Unknown model : Petrol : Manual)
+[main] INFO  com.serheev.beans.CarFactoryBean  - Simon says - This is a Passenger car (A6 : Petrol : Manual)
+[main] INFO  com.serheev.beans.CarFactoryBean  - Simon says - This is a Passenger car (M5 : Petrol : Manual)
+[main] INFO  com.serheev.beans.CarFactoryBean  - Simon says - This is a Truck (TGS : Petrol : Manual)
+[main] INFO  com.serheev.beans.CarFactoryBean  - Simon says - This is a Truck (Euro 6 : Petrol : Manual)
+[main] INFO  com.serheev.app.RunSpring  - false
+[main] INFO  com.serheev.app.RunSpring  - com.serheev.beans.CarFactoryBean@2173f6d9
+[main] INFO  com.serheev.app.RunSpring  - com.serheev.beans.CarFactoryBean@307f6b8c
+[main] INFO  com.serheev.beans.HRDepartmentBean  - I'm a driver!. I have to do drive a car
+[main] INFO  com.serheev.beans.HRDepartmentBean  - I'm a driver!. I have to do drive a car
+[main] INFO  com.serheev.beans.HRDepartmentBean  - I'm a mechanic!. I have to do fix a car
+[main] INFO  com.serheev.beans.HRDepartmentBean  - I'm a mechanic!. I have to do fix a car
+[main] INFO  com.serheev.beans.CarFactoryBean  - Simon says - This is a Passenger car (Unknown model : Petrol : Manual)
+[main] INFO  com.serheev.beans.CarFactoryBean  - Simon says - This is a Passenger car (Unknown model : Petrol : Manual)
+[main] INFO  com.serheev.beans.CarFactoryBean  - Simon says - This is a Truck (Unknown model : Petrol : Manual)
+[main] INFO  com.serheev.beans.CarFactoryBean  - Simon says - This is a Truck (Unknown model : Petrol : Manual)
+[main] INFO  com.serheev.beans.CarFactoryBean  - Simon says - This is a Passenger car (A6 : Petrol : Manual)
+[main] INFO  com.serheev.beans.CarFactoryBean  - Simon says - This is a Passenger car (M5 : Petrol : Manual)
+[main] INFO  com.serheev.beans.CarFactoryBean  - Simon says - This is a Truck (TGS : Petrol : Manual)
+[main] INFO  com.serheev.beans.CarFactoryBean  - Simon says - This is a Truck (Euro 6 : Petrol : Manual)
+[main] INFO  com.serheev.app.RunSpring  - false
+[main] INFO  com.serheev.app.RunSpring  - com.serheev.beans.CarFactoryBean@2173f6d9
+[main] INFO  com.serheev.app.RunSpring  - com.serheev.beans.CarFactoryBean@307f6b8c
+[main] INFO  com.serheev.beans.HRDepartmentBean  - I'm a driver!. I have to do drive a car
+[main] INFO  com.serheev.beans.HRDepartmentBean  - I'm a driver!. I have to do drive a car
+[main] INFO  com.serheev.beans.HRDepartmentBean  - I'm a mechanic!. I have to do fix a car
+[main] INFO  com.serheev.beans.HRDepartmentBean  - I'm a mechanic!. I have to do fix a car
+[main] INFO  com.serheev.beans.CarFactoryBean  - Simon says - This is a Passenger car (Unknown model : Petrol : Manual)
+[main] INFO  com.serheev.beans.CarFactoryBean  - Simon says - This is a Passenger car (Unknown model : Petrol : Manual)
+[main] INFO  com.serheev.beans.CarFactoryBean  - Simon says - This is a Truck (Unknown model : Petrol : Manual)
+[main] INFO  com.serheev.beans.CarFactoryBean  - Simon says - This is a Truck (Unknown model : Petrol : Manual)
+[main] INFO  com.serheev.beans.CarFactoryBean  - Simon says - This is a Passenger car (A6 : Petrol : Manual)
+[main] INFO  com.serheev.beans.CarFactoryBean  - Simon says - This is a Passenger car (M5 : Petrol : Manual)
+[main] INFO  com.serheev.beans.CarFactoryBean  - Simon says - This is a Truck (TGS : Petrol : Manual)
+[main] INFO  com.serheev.beans.CarFactoryBean  - Simon says - This is a Truck (Euro 6 : Petrol : Manual)
+[main] INFO  com.serheev.app.RunSpring  - false
+[main] INFO  com.serheev.app.RunSpring  - com.serheev.beans.CarFactoryBean@2173f6d9
+[main] INFO  com.serheev.app.RunSpring  - com.serheev.beans.CarFactoryBean@307f6b8c
+[main] INFO  com.serheev.beans.HRDepartmentBean  - I'm a driver!. I have to do drive a car
+[main] INFO  com.serheev.beans.HRDepartmentBean  - I'm a driver!. I have to do drive a car
+[main] INFO  com.serheev.beans.HRDepartmentBean  - I'm a mechanic!. I have to do fix a car
+[main] INFO  com.serheev.beans.HRDepartmentBean  - I'm a mechanic!. I have to do fix a car
+[main] INFO  com.serheev.beans.CarFactoryBean  - Simon says - This is a Passenger car (Unknown model : Petrol : Manual)
+[main] INFO  com.serheev.beans.CarFactoryBean  - Simon says - This is a Passenger car (Unknown model : Petrol : Manual)
+[main] INFO  com.serheev.beans.CarFactoryBean  - Simon says - This is a Truck (Unknown model : Petrol : Manual)
+[main] INFO  com.serheev.beans.CarFactoryBean  - Simon says - This is a Truck (Unknown model : Petrol : Manual)
+[main] INFO  com.serheev.beans.CarFactoryBean  - Simon says - This is a Passenger car (A6 : Petrol : Manual)
+[main] INFO  com.serheev.beans.CarFactoryBean  - Simon says - This is a Passenger car (M5 : Petrol : Manual)
+[main] INFO  com.serheev.beans.CarFactoryBean  - Simon says - This is a Truck (TGS : Petrol : Manual)
+[main] INFO  com.serheev.beans.CarFactoryBean  - Simon says - This is a Truck (Euro 6 : Petrol : Manual)
+[main] INFO  com.serheev.app.RunSpring  - false
+[main] INFO  com.serheev.app.RunSpring  - com.serheev.beans.CarFactoryBean@4d50efb8
+[main] INFO  com.serheev.app.RunSpring  - com.serheev.beans.CarFactoryBean@7e2d773b
+[main] INFO  com.serheev.beans.HRDepartmentBean  - I'm a driver!. I have to do drive a car
+[main] INFO  com.serheev.beans.HRDepartmentBean  - I'm a driver!. I have to do drive a car
+[main] INFO  com.serheev.app.RunSpring  - com.serheev.beans.HRDepartmentBean@2173f6d9
+[main] INFO  com.serheev.app.RunSpring  - com.serheev.beans.HRDepartmentBean@2173f6d9
+[main] INFO  com.serheev.beans.HRDepartmentBean  - I'm a mechanic!. I have to do fix a car
+[main] INFO  com.serheev.beans.HRDepartmentBean  - I'm a mechanic!. I have to do fix a car
+[main] INFO  com.serheev.app.RunSpring  - com.serheev.beans.HRDepartmentBean@307f6b8c
+[main] INFO  com.serheev.app.RunSpring  - com.serheev.beans.HRDepartmentBean@307f6b8c
+[main] INFO  com.serheev.beans.CarFactoryBean  - Simon says - This is a Passenger car (Unknown model : Petrol : Manual)
+[main] INFO  com.serheev.beans.CarFactoryBean  - Simon says - This is a Passenger car (Unknown model : Petrol : Manual)
+[main] INFO  com.serheev.beans.CarFactoryBean  - Simon says - This is a Truck (Unknown model : Petrol : Manual)
+[main] INFO  com.serheev.beans.CarFactoryBean  - Simon says - This is a Truck (Unknown model : Petrol : Manual)
+[main] INFO  com.serheev.beans.CarFactoryBean  - Simon says - This is a Passenger car (A6 : Petrol : Manual)
+[main] INFO  com.serheev.beans.CarFactoryBean  - Simon says - This is a Passenger car (M5 : Petrol : Manual)
+[main] INFO  com.serheev.beans.CarFactoryBean  - Simon says - This is a Truck (TGS : Petrol : Manual)
+[main] INFO  com.serheev.beans.CarFactoryBean  - Simon says - This is a Truck (Euro 6 : Petrol : Manual)
+[main] INFO  com.serheev.app.RunSpring  - false
+[main] INFO  com.serheev.app.RunSpring  - com.serheev.beans.CarFactoryBean@7a187f14
+[main] INFO  com.serheev.app.RunSpring  - com.serheev.beans.CarFactoryBean@6f195bc3
+[main] INFO  com.serheev.beans.HRDepartmentBean  - I'm a driver!. I have to do drive a car
+[main] INFO  com.serheev.beans.HRDepartmentBean  - I'm a driver!. I have to do drive a car
+[main] INFO  com.serheev.app.RunSpring  - com.serheev.beans.HRDepartmentBean@4d50efb8
+[main] INFO  com.serheev.app.RunSpring  - com.serheev.beans.HRDepartmentBean@4d50efb8
+[main] INFO  com.serheev.beans.HRDepartmentBean  - I'm a mechanic!. I have to do fix a car
+[main] INFO  com.serheev.beans.HRDepartmentBean  - I'm a mechanic!. I have to do fix a car
+[main] INFO  com.serheev.app.RunSpring  - com.serheev.beans.HRDepartmentBean@7e2d773b
+[main] INFO  com.serheev.app.RunSpring  - com.serheev.beans.HRDepartmentBean@7e2d773b
+[main] INFO  com.serheev.beans.CarFactoryBean  - Simon says - This is a Passenger car (Unknown model : Petrol : Manual)
+[main] INFO  com.serheev.beans.CarFactoryBean  - Simon says - This is a Passenger car (Unknown model : Petrol : Manual)
+[main] INFO  com.serheev.beans.CarFactoryBean  - Simon says - This is a Truck (Unknown model : Petrol : Manual)
+[main] INFO  com.serheev.beans.CarFactoryBean  - Simon says - This is a Truck (Unknown model : Petrol : Manual)
+[main] INFO  com.serheev.beans.CarFactoryBean  - Simon says - This is a Passenger car (A6 : Petrol : Manual)
+[main] INFO  com.serheev.beans.CarFactoryBean  - Simon says - This is a Passenger car (M5 : Petrol : Manual)
+[main] INFO  com.serheev.beans.CarFactoryBean  - Simon says - This is a Truck (TGS : Petrol : Manual)
+[main] INFO  com.serheev.beans.CarFactoryBean  - Simon says - This is a Truck (Euro 6 : Petrol : Manual)
+[main] INFO  com.serheev.app.RunSpring  - com.serheev.beans.CarFactoryBean@2173f6d9
+[main] INFO  com.serheev.app.RunSpring  - com.serheev.beans.CarFactoryBean@307f6b8c
+[main] INFO  com.serheev.beans.DriverBean  - Doing initialization...
+[main] INFO  com.serheev.beans.HRDepartmentBean  - I'm a driver!. I have to do drive a car
+[main] INFO  com.serheev.beans.HRDepartmentBean  - I'm a driver!. I have to do drive a car
+[main] INFO  com.serheev.app.RunSpring  - com.serheev.beans.HRDepartmentBean@6f195bc3
+[main] INFO  com.serheev.app.RunSpring  - com.serheev.beans.HRDepartmentBean@6f195bc3
+[main] INFO  com.serheev.beans.HRDepartmentBean  - I'm a mechanic!. I have to do fix a car
+[main] INFO  com.serheev.beans.HRDepartmentBean  - I'm a mechanic!. I have to do fix a car
+[main] INFO  com.serheev.app.RunSpring  - com.serheev.beans.HRDepartmentBean@51e2adc7
+[main] INFO  com.serheev.app.RunSpring  - com.serheev.beans.HRDepartmentBean@51e2adc7
+[main] INFO  com.serheev.beans.CarFactoryBean  - Simon says - This is a Passenger car (Unknown model : Petrol : Manual)
+[main] INFO  com.serheev.beans.CarFactoryBean  - Simon says - This is a Passenger car (Unknown model : Petrol : Manual)
+[main] INFO  com.serheev.beans.CarFactoryBean  - Simon says - This is a Truck (Unknown model : Petrol : Manual)
+[main] INFO  com.serheev.beans.CarFactoryBean  - Simon says - This is a Truck (Unknown model : Petrol : Manual)
+[main] INFO  com.serheev.beans.CarFactoryBean  - Simon says - This is a Passenger car (A6 : Petrol : Manual)
+[main] INFO  com.serheev.beans.CarFactoryBean  - Simon says - This is a Passenger car (M5 : Petrol : Manual)
+[main] INFO  com.serheev.beans.CarFactoryBean  - Simon says - This is a Truck (TGS : Petrol : Manual)
+[main] INFO  com.serheev.beans.CarFactoryBean  - Simon says - This is a Truck (Euro 6 : Petrol : Manual)
+[main] INFO  com.serheev.app.RunSpring  - com.serheev.beans.CarFactoryBean@1a8a8f7c
+[main] INFO  com.serheev.app.RunSpring  - com.serheev.beans.CarFactoryBean@2353b3e6
+[main] INFO  com.serheev.beans.DriverBean  - Doing Destruction...
+[main] INFO  com.serheev.beans.DriverBean  - Doing initialization...
+[main] INFO  com.serheev.beans.DriverBean  - PP-Before: mechanicBean
+[main] INFO  com.serheev.beans.DriverBean  - PP-After: mechanicBean
+[main] INFO  com.serheev.beans.DriverBean  - PP-Before: com.serheev.app.InitBeans#0
+[main] INFO  com.serheev.beans.DriverBean  - PP-After: com.serheev.app.InitBeans#0
+[main] INFO  com.serheev.beans.DriverBean  - PP-Before: driverEmployee
+[main] INFO  com.serheev.beans.DriverBean  - PP-After: driverEmployee
+[main] INFO  com.serheev.beans.DriverBean  - PP-Before: mechanicEmployee
+[main] INFO  com.serheev.beans.DriverBean  - PP-After: mechanicEmployee
+[main] INFO  com.serheev.beans.DriverBean  - PP-Before: carPassengerBean
+[main] INFO  com.serheev.beans.DriverBean  - PP-After: carPassengerBean
+[main] INFO  com.serheev.beans.DriverBean  - PP-Before: carCargoBean
+[main] INFO  com.serheev.beans.DriverBean  - PP-After: carCargoBean
+[main] INFO  com.serheev.beans.HRDepartmentBean  - I'm a driver!. I have to do drive a car
+[main] INFO  com.serheev.beans.HRDepartmentBean  - I'm a driver!. I have to do drive a car
+[main] INFO  com.serheev.app.RunSpring  - com.serheev.beans.HRDepartmentBean@1a8a8f7c
+[main] INFO  com.serheev.app.RunSpring  - com.serheev.beans.HRDepartmentBean@1a8a8f7c
+[main] INFO  com.serheev.beans.HRDepartmentBean  - I'm a mechanic!. I have to do fix a car
+[main] INFO  com.serheev.beans.HRDepartmentBean  - I'm a mechanic!. I have to do fix a car
+[main] INFO  com.serheev.app.RunSpring  - com.serheev.beans.HRDepartmentBean@2353b3e6
+[main] INFO  com.serheev.app.RunSpring  - com.serheev.beans.HRDepartmentBean@2353b3e6
+[main] INFO  com.serheev.beans.DriverBean  - PP-Before: carPassengerFactory
+[main] INFO  com.serheev.beans.DriverBean  - PP-After: carPassengerFactory
+[main] INFO  com.serheev.beans.DriverBean  - PP-Before: carPassengerFactory
+[main] INFO  com.serheev.beans.DriverBean  - PP-After: carPassengerFactory
+[main] INFO  com.serheev.beans.DriverBean  - PP-Before: carCargoFactory
+[main] INFO  com.serheev.beans.DriverBean  - PP-After: carCargoFactory
+[main] INFO  com.serheev.beans.DriverBean  - PP-Before: carCargoFactory
+[main] INFO  com.serheev.beans.DriverBean  - PP-After: carCargoFactory
+[main] INFO  com.serheev.beans.CarFactoryBean  - Simon says - This is a Passenger car (Unknown model : Petrol : Manual)
+[main] INFO  com.serheev.beans.CarFactoryBean  - Simon says - This is a Passenger car (Unknown model : Petrol : Manual)
+[main] INFO  com.serheev.beans.CarFactoryBean  - Simon says - This is a Truck (Unknown model : Petrol : Manual)
+[main] INFO  com.serheev.beans.CarFactoryBean  - Simon says - This is a Truck (Unknown model : Petrol : Manual)
+[main] INFO  com.serheev.beans.CarFactoryBean  - Simon says - This is a Passenger car (A6 : Petrol : Manual)
+[main] INFO  com.serheev.beans.CarFactoryBean  - Simon says - This is a Passenger car (M5 : Petrol : Manual)
+[main] INFO  com.serheev.beans.CarFactoryBean  - Simon says - This is a Truck (TGS : Petrol : Manual)
+[main] INFO  com.serheev.beans.CarFactoryBean  - Simon says - This is a Truck (Euro 6 : Petrol : Manual)
+[main] INFO  com.serheev.app.RunSpring  - com.serheev.beans.CarFactoryBean@631330c
+[main] INFO  com.serheev.app.RunSpring  - com.serheev.beans.CarFactoryBean@42f93a98
+[main] INFO  com.serheev.beans.DriverBean  - Doing Destruction...
+[main] INFO  com.serheev.beans.MechanicBean  - PP-Before: driverBean
+[main] INFO  com.serheev.app.InitBeans  - PP-Before: driverBean
+[main] INFO  com.serheev.beans.CargoCarBean  - PP-Before: driverBean
+[main] INFO  com.serheev.beans.CargoCarBean  - PP-Before: driverBean
+[main] INFO  com.serheev.beans.MechanicBean  - PP-Before: driverBean
+[main] INFO  com.serheev.app.InitBeans  - PP-Before: driverBean
+[main] INFO  com.serheev.beans.CargoCarBean  - PP-Before: driverBean
+[main] INFO  com.serheev.beans.CargoCarBean  - PP-Before: driverBean
+[main] INFO  com.serheev.beans.MechanicBean  - PP-Before: driverBean
+[main] INFO  com.serheev.app.InitBeans  - PP-Before: driverBean
+[main] INFO  com.serheev.beans.CargoCarBean  - PP-Before: driverBean
+[main] INFO  com.serheev.beans.CargoCarBean  - PP-Before: driverBean
+[main] INFO  com.serheev.app.InitBeans  - Doing initialization...
+[main] INFO  com.serheev.beans.MechanicBean  - PP-After: driverBean
+[main] INFO  com.serheev.app.InitBeans  - PP-After: driverBean
+[main] INFO  com.serheev.beans.CargoCarBean  - PP-After: driverBean
+[main] INFO  com.serheev.beans.CargoCarBean  - PP-After: driverBean
+[main] INFO  com.serheev.beans.MechanicBean  - PP-Before: driverEmployee
+[main] INFO  com.serheev.app.InitBeans  - PP-Before: driverEmployee
+[main] INFO  com.serheev.beans.CargoCarBean  - PP-Before: driverEmployee
+[main] INFO  com.serheev.beans.CargoCarBean  - PP-Before: driverEmployee
+[main] INFO  com.serheev.beans.MechanicBean  - PP-After: driverEmployee
+[main] INFO  com.serheev.app.InitBeans  - PP-After: driverEmployee
+[main] INFO  com.serheev.beans.CargoCarBean  - PP-After: driverEmployee
+[main] INFO  com.serheev.beans.CargoCarBean  - PP-After: driverEmployee
+[main] INFO  com.serheev.beans.MechanicBean  - PP-Before: mechanicEmployee
+[main] INFO  com.serheev.app.InitBeans  - PP-Before: mechanicEmployee
+[main] INFO  com.serheev.beans.CargoCarBean  - PP-Before: mechanicEmployee
+[main] INFO  com.serheev.beans.CargoCarBean  - PP-Before: mechanicEmployee
+[main] INFO  com.serheev.beans.MechanicBean  - PP-After: mechanicEmployee
+[main] INFO  com.serheev.app.InitBeans  - PP-After: mechanicEmployee
+[main] INFO  com.serheev.beans.CargoCarBean  - PP-After: mechanicEmployee
+[main] INFO  com.serheev.beans.CargoCarBean  - PP-After: mechanicEmployee
+[main] INFO  com.serheev.beans.HRDepartmentBean  - I'm a driver!. I have to do drive a car
+[main] INFO  com.serheev.app.InitBeans  - Doing Destruction...
+[main] INFO  com.serheev.beans.MechanicBean  - PP-Before: driverBean
+[main] INFO  com.serheev.app.InitBeans  - PP-Before: driverBean
+[main] INFO  com.serheev.beans.CargoCarBean  - PP-Before: driverBean
+[main] INFO  com.serheev.beans.CargoCarBean  - PP-Before: driverBean
+[main] INFO  com.serheev.beans.DriverBean  - Doing initialization...
+[main] INFO  com.serheev.beans.MechanicBean  - PP-After: driverBean
+[main] INFO  com.serheev.app.InitBeans  - PP-After: driverBean
+[main] INFO  com.serheev.beans.CargoCarBean  - PP-After: driverBean
+[main] INFO  com.serheev.beans.CargoCarBean  - PP-After: driverBean
+[main] INFO  com.serheev.beans.MechanicBean  - PP-Before: driverEmployee
+[main] INFO  com.serheev.app.InitBeans  - PP-Before: driverEmployee
+[main] INFO  com.serheev.beans.CargoCarBean  - PP-Before: driverEmployee
+[main] INFO  com.serheev.beans.CargoCarBean  - PP-Before: driverEmployee
+[main] INFO  com.serheev.beans.MechanicBean  - PP-After: driverEmployee
+[main] INFO  com.serheev.app.InitBeans  - PP-After: driverEmployee
+[main] INFO  com.serheev.beans.CargoCarBean  - PP-After: driverEmployee
+[main] INFO  com.serheev.beans.CargoCarBean  - PP-After: driverEmployee
+[main] INFO  com.serheev.beans.MechanicBean  - PP-Before: mechanicEmployee
+[main] INFO  com.serheev.app.InitBeans  - PP-Before: mechanicEmployee
+[main] INFO  com.serheev.beans.CargoCarBean  - PP-Before: mechanicEmployee
+[main] INFO  com.serheev.beans.CargoCarBean  - PP-Before: mechanicEmployee
+[main] INFO  com.serheev.beans.MechanicBean  - PP-After: mechanicEmployee
+[main] INFO  com.serheev.app.InitBeans  - PP-After: mechanicEmployee
+[main] INFO  com.serheev.beans.CargoCarBean  - PP-After: mechanicEmployee
+[main] INFO  com.serheev.beans.CargoCarBean  - PP-After: mechanicEmployee
+[main] INFO  com.serheev.beans.HRDepartmentBean  - I'm a driver!. I have to do drive a car
+[main] INFO  com.serheev.beans.DriverBean  - Doing Destruction...
+[main] INFO  com.serheev.app.InitBeans  - PP-Before: driverBean
+[main] INFO  com.serheev.beans.DriverBean  - Doing initialization...
+[main] INFO  com.serheev.app.InitBeans  - PP-After: driverBean
+[main] INFO  com.serheev.app.InitBeans  - PP-Before: driverEmployee
+[main] INFO  com.serheev.app.InitBeans  - PP-After: driverEmployee
+[main] INFO  com.serheev.beans.HRDepartmentBean  - I'm a driver!. I have to do drive a car
+[main] INFO  com.serheev.beans.DriverBean  - Doing Destruction...
+[main] INFO  com.serheev.app.InitBeans  - PP-Before: driverBean
+[main] INFO  com.serheev.beans.MechanicBean  - PP-Before: driverBean
+[main] INFO  com.serheev.beans.CargoCarBean  - PP-Before: driverBean
+[main] INFO  com.serheev.beans.CargoCarBean  - PP-Before: driverBean
+[main] INFO  com.serheev.beans.DriverBean  - Doing initialization...
+[main] INFO  com.serheev.app.InitBeans  - PP-After: driverBean
+[main] INFO  com.serheev.beans.MechanicBean  - PP-After: driverBean
+[main] INFO  com.serheev.beans.CargoCarBean  - PP-After: driverBean
+[main] INFO  com.serheev.beans.CargoCarBean  - PP-After: driverBean
+[main] INFO  com.serheev.app.InitBeans  - PP-Before: driverEmployee
+[main] INFO  com.serheev.beans.MechanicBean  - PP-Before: driverEmployee
+[main] INFO  com.serheev.beans.CargoCarBean  - PP-Before: driverEmployee
+[main] INFO  com.serheev.beans.CargoCarBean  - PP-Before: driverEmployee
+[main] INFO  com.serheev.app.InitBeans  - PP-After: driverEmployee
+[main] INFO  com.serheev.beans.MechanicBean  - PP-After: driverEmployee
+[main] INFO  com.serheev.beans.CargoCarBean  - PP-After: driverEmployee
+[main] INFO  com.serheev.beans.CargoCarBean  - PP-After: driverEmployee
+[main] INFO  com.serheev.app.InitBeans  - PP-Before: mechanicEmployee
+[main] INFO  com.serheev.beans.MechanicBean  - PP-Before: mechanicEmployee
+[main] INFO  com.serheev.beans.CargoCarBean  - PP-Before: mechanicEmployee
+[main] INFO  com.serheev.beans.CargoCarBean  - PP-Before: mechanicEmployee
+[main] INFO  com.serheev.app.InitBeans  - PP-After: mechanicEmployee
+[main] INFO  com.serheev.beans.MechanicBean  - PP-After: mechanicEmployee
+[main] INFO  com.serheev.beans.CargoCarBean  - PP-After: mechanicEmployee
+[main] INFO  com.serheev.beans.CargoCarBean  - PP-After: mechanicEmployee
+[main] INFO  com.serheev.beans.HRDepartmentBean  - I'm a driver!. I have to do drive a car
+[main] INFO  com.serheev.beans.DriverBean  - Doing Destruction...
+[main] INFO  com.serheev.app.InitBeans  - PP-Before: driverBean
+[main] INFO  com.serheev.beans.MechanicBean  - PP-Before: driverBean
+[main] INFO  com.serheev.beans.CargoCarBean  - PP-Before: driverBean
+[main] INFO  com.serheev.beans.CargoCarBean  - PP-Before: driverBean
+[main] INFO  com.serheev.beans.DriverBean  - Doing initialization...
+[main] INFO  com.serheev.app.InitBeans  - PP-After: driverBean
+[main] INFO  com.serheev.beans.MechanicBean  - PP-After: driverBean
+[main] INFO  com.serheev.beans.CargoCarBean  - PP-After: driverBean
+[main] INFO  com.serheev.beans.CargoCarBean  - PP-After: driverBean
+[main] INFO  com.serheev.app.InitBeans  - PP-Before: driverEmployee
+[main] INFO  com.serheev.beans.MechanicBean  - PP-Before: driverEmployee
+[main] INFO  com.serheev.beans.CargoCarBean  - PP-Before: driverEmployee
+[main] INFO  com.serheev.beans.CargoCarBean  - PP-Before: driverEmployee
+[main] INFO  com.serheev.app.InitBeans  - PP-After: driverEmployee
+[main] INFO  com.serheev.beans.MechanicBean  - PP-After: driverEmployee
+[main] INFO  com.serheev.beans.CargoCarBean  - PP-After: driverEmployee
+[main] INFO  com.serheev.beans.CargoCarBean  - PP-After: driverEmployee
+[main] INFO  com.serheev.app.InitBeans  - PP-Before: mechanicEmployee
+[main] INFO  com.serheev.beans.MechanicBean  - PP-Before: mechanicEmployee
+[main] INFO  com.serheev.beans.CargoCarBean  - PP-Before: mechanicEmployee
+[main] INFO  com.serheev.beans.CargoCarBean  - PP-Before: mechanicEmployee
+[main] INFO  com.serheev.app.InitBeans  - PP-After: mechanicEmployee
+[main] INFO  com.serheev.beans.MechanicBean  - PP-After: mechanicEmployee
+[main] INFO  com.serheev.beans.CargoCarBean  - PP-After: mechanicEmployee
+[main] INFO  com.serheev.beans.CargoCarBean  - PP-After: mechanicEmployee
+[main] INFO  com.serheev.app.InitBeans  - PP-Before: carPassengerFactory
+[main] INFO  com.serheev.beans.MechanicBean  - PP-Before: carPassengerFactory
+[main] INFO  com.serheev.beans.CargoCarBean  - PP-Before: carPassengerFactory
+[main] INFO  com.serheev.beans.CargoCarBean  - PP-Before: carPassengerFactory
+[main] INFO  com.serheev.app.InitBeans  - PP-After: carPassengerFactory
+[main] INFO  com.serheev.beans.MechanicBean  - PP-After: carPassengerFactory
+[main] INFO  com.serheev.beans.CargoCarBean  - PP-After: carPassengerFactory
+[main] INFO  com.serheev.beans.CargoCarBean  - PP-After: carPassengerFactory
+[main] INFO  com.serheev.app.InitBeans  - PP-Before: carPassengerFactory
+[main] INFO  com.serheev.beans.MechanicBean  - PP-Before: carPassengerFactory
+[main] INFO  com.serheev.beans.CargoCarBean  - PP-Before: carPassengerFactory
+[main] INFO  com.serheev.beans.CargoCarBean  - PP-Before: carPassengerFactory
+[main] INFO  com.serheev.app.InitBeans  - PP-After: carPassengerFactory
+[main] INFO  com.serheev.beans.MechanicBean  - PP-After: carPassengerFactory
+[main] INFO  com.serheev.beans.CargoCarBean  - PP-After: carPassengerFactory
+[main] INFO  com.serheev.beans.CargoCarBean  - PP-After: carPassengerFactory
+[main] INFO  com.serheev.app.InitBeans  - PP-Before: carCargoFactory
+[main] INFO  com.serheev.beans.MechanicBean  - PP-Before: carCargoFactory
+[main] INFO  com.serheev.beans.CargoCarBean  - PP-Before: carCargoFactory
+[main] INFO  com.serheev.beans.CargoCarBean  - PP-Before: carCargoFactory
+[main] INFO  com.serheev.app.InitBeans  - PP-After: carCargoFactory
+[main] INFO  com.serheev.beans.MechanicBean  - PP-After: carCargoFactory
+[main] INFO  com.serheev.beans.CargoCarBean  - PP-After: carCargoFactory
+[main] INFO  com.serheev.beans.CargoCarBean  - PP-After: carCargoFactory
+[main] INFO  com.serheev.app.InitBeans  - PP-Before: carCargoFactory
+[main] INFO  com.serheev.beans.MechanicBean  - PP-Before: carCargoFactory
+[main] INFO  com.serheev.beans.CargoCarBean  - PP-Before: carCargoFactory
+[main] INFO  com.serheev.beans.CargoCarBean  - PP-Before: carCargoFactory
+[main] INFO  com.serheev.app.InitBeans  - PP-After: carCargoFactory
+[main] INFO  com.serheev.beans.MechanicBean  - PP-After: carCargoFactory
+[main] INFO  com.serheev.beans.CargoCarBean  - PP-After: carCargoFactory
+[main] INFO  com.serheev.beans.CargoCarBean  - PP-After: carCargoFactory
+[main] INFO  com.serheev.beans.DriverBean  - Doing Destruction...
+[main] INFO  com.serheev.app.InitBeans  - PP-Before: driverBean
+[main] INFO  com.serheev.beans.MechanicBean  - PP-Before: driverBean
+[main] INFO  com.serheev.beans.CargoCarBean  - PP-Before: driverBean
+[main] INFO  com.serheev.beans.CargoCarBean  - PP-Before: driverBean
+[main] INFO  com.serheev.beans.DriverBean  - Doing initialization...
+[main] INFO  com.serheev.app.InitBeans  - PP-After: driverBean
+[main] INFO  com.serheev.beans.MechanicBean  - PP-After: driverBean
+[main] INFO  com.serheev.beans.CargoCarBean  - PP-After: driverBean
+[main] INFO  com.serheev.beans.CargoCarBean  - PP-After: driverBean
+[main] INFO  com.serheev.app.InitBeans  - PP-Before: driverEmployee
+[main] INFO  com.serheev.beans.MechanicBean  - PP-Before: driverEmployee
+[main] INFO  com.serheev.beans.CargoCarBean  - PP-Before: driverEmployee
+[main] INFO  com.serheev.beans.CargoCarBean  - PP-Before: driverEmployee
+[main] INFO  com.serheev.app.InitBeans  - PP-After: driverEmployee
+[main] INFO  com.serheev.beans.MechanicBean  - PP-After: driverEmployee
+[main] INFO  com.serheev.beans.CargoCarBean  - PP-After: driverEmployee
+[main] INFO  com.serheev.beans.CargoCarBean  - PP-After: driverEmployee
+[main] INFO  com.serheev.app.InitBeans  - PP-Before: mechanicEmployee
+[main] INFO  com.serheev.beans.MechanicBean  - PP-Before: mechanicEmployee
+[main] INFO  com.serheev.beans.CargoCarBean  - PP-Before: mechanicEmployee
+[main] INFO  com.serheev.beans.CargoCarBean  - PP-Before: mechanicEmployee
+[main] INFO  com.serheev.app.InitBeans  - PP-After: mechanicEmployee
+[main] INFO  com.serheev.beans.MechanicBean  - PP-After: mechanicEmployee
+[main] INFO  com.serheev.beans.CargoCarBean  - PP-After: mechanicEmployee
+[main] INFO  com.serheev.beans.CargoCarBean  - PP-After: mechanicEmployee
+[main] INFO  com.serheev.app.InitBeans  - PP-Before: carPassengerFactory
+[main] INFO  com.serheev.beans.MechanicBean  - PP-Before: carPassengerFactory
+[main] INFO  com.serheev.beans.CargoCarBean  - PP-Before: carPassengerFactory
+[main] INFO  com.serheev.beans.CargoCarBean  - PP-Before: carPassengerFactory
+[main] INFO  com.serheev.app.InitBeans  - PP-After: carPassengerFactory
+[main] INFO  com.serheev.beans.MechanicBean  - PP-After: carPassengerFactory
+[main] INFO  com.serheev.beans.CargoCarBean  - PP-After: carPassengerFactory
+[main] INFO  com.serheev.beans.CargoCarBean  - PP-After: carPassengerFactory
+[main] INFO  com.serheev.app.InitBeans  - PP-Before: carPassengerFactory
+[main] INFO  com.serheev.beans.MechanicBean  - PP-Before: carPassengerFactory
+[main] INFO  com.serheev.beans.CargoCarBean  - PP-Before: carPassengerFactory
+[main] INFO  com.serheev.beans.CargoCarBean  - PP-Before: carPassengerFactory
+[main] INFO  com.serheev.app.InitBeans  - PP-After: carPassengerFactory
+[main] INFO  com.serheev.beans.MechanicBean  - PP-After: carPassengerFactory
+[main] INFO  com.serheev.beans.CargoCarBean  - PP-After: carPassengerFactory
+[main] INFO  com.serheev.beans.CargoCarBean  - PP-After: carPassengerFactory
+[main] INFO  com.serheev.app.InitBeans  - PP-Before: carCargoFactory
+[main] INFO  com.serheev.beans.MechanicBean  - PP-Before: carCargoFactory
+[main] INFO  com.serheev.beans.CargoCarBean  - PP-Before: carCargoFactory
+[main] INFO  com.serheev.beans.CargoCarBean  - PP-Before: carCargoFactory
+[main] INFO  com.serheev.app.InitBeans  - PP-After: carCargoFactory
+[main] INFO  com.serheev.beans.MechanicBean  - PP-After: carCargoFactory
+[main] INFO  com.serheev.beans.CargoCarBean  - PP-After: carCargoFactory
+[main] INFO  com.serheev.beans.CargoCarBean  - PP-After: carCargoFactory
+[main] INFO  com.serheev.app.InitBeans  - PP-Before: carCargoFactory
+[main] INFO  com.serheev.beans.MechanicBean  - PP-Before: carCargoFactory
+[main] INFO  com.serheev.beans.CargoCarBean  - PP-Before: carCargoFactory
+[main] INFO  com.serheev.beans.CargoCarBean  - PP-Before: carCargoFactory
+[main] INFO  com.serheev.app.InitBeans  - PP-After: carCargoFactory
+[main] INFO  com.serheev.beans.MechanicBean  - PP-After: carCargoFactory
+[main] INFO  com.serheev.beans.CargoCarBean  - PP-After: carCargoFactory
+[main] INFO  com.serheev.beans.CargoCarBean  - PP-After: carCargoFactory
+[main] INFO  com.serheev.beans.DriverBean  - Doing Destruction...
+[main] INFO  com.serheev.app.InitBeans  - PP-Before: driverBean
+[main] INFO  com.serheev.beans.MechanicBean  - PP-Before: driverBean
+[main] INFO  com.serheev.beans.CargoCarBean  - PP-Before: driverBean
+[main] INFO  com.serheev.beans.CargoCarBean  - PP-Before: driverBean
+[main] INFO  com.serheev.beans.DriverBean  - Doing initialization...
+[main] INFO  com.serheev.app.InitBeans  - PP-After: driverBean
+[main] INFO  com.serheev.beans.MechanicBean  - PP-After: driverBean
+[main] INFO  com.serheev.beans.CargoCarBean  - PP-After: driverBean
+[main] INFO  com.serheev.beans.CargoCarBean  - PP-After: driverBean
+[main] INFO  com.serheev.app.InitBeans  - PP-Before: driverEmployee
+[main] INFO  com.serheev.beans.MechanicBean  - PP-Before: driverEmployee
+[main] INFO  com.serheev.beans.CargoCarBean  - PP-Before: driverEmployee
+[main] INFO  com.serheev.beans.CargoCarBean  - PP-Before: driverEmployee
+[main] INFO  com.serheev.app.InitBeans  - PP-After: driverEmployee
+[main] INFO  com.serheev.beans.MechanicBean  - PP-After: driverEmployee
+[main] INFO  com.serheev.beans.CargoCarBean  - PP-After: driverEmployee
+[main] INFO  com.serheev.beans.CargoCarBean  - PP-After: driverEmployee
+[main] INFO  com.serheev.app.InitBeans  - PP-Before: mechanicEmployee
+[main] INFO  com.serheev.beans.MechanicBean  - PP-Before: mechanicEmployee
+[main] INFO  com.serheev.beans.CargoCarBean  - PP-Before: mechanicEmployee
+[main] INFO  com.serheev.beans.CargoCarBean  - PP-Before: mechanicEmployee
+[main] INFO  com.serheev.app.InitBeans  - PP-After: mechanicEmployee
+[main] INFO  com.serheev.beans.MechanicBean  - PP-After: mechanicEmployee
+[main] INFO  com.serheev.beans.CargoCarBean  - PP-After: mechanicEmployee
+[main] INFO  com.serheev.beans.CargoCarBean  - PP-After: mechanicEmployee
+[main] INFO  com.serheev.app.InitBeans  - PP-Before: carPassengerFactory
+[main] INFO  com.serheev.beans.MechanicBean  - PP-Before: carPassengerFactory
+[main] INFO  com.serheev.beans.CargoCarBean  - PP-Before: carPassengerFactory
+[main] INFO  com.serheev.beans.CargoCarBean  - PP-Before: carPassengerFactory
+[main] INFO  com.serheev.app.InitBeans  - PP-After: carPassengerFactory
+[main] INFO  com.serheev.beans.MechanicBean  - PP-After: carPassengerFactory
+[main] INFO  com.serheev.beans.CargoCarBean  - PP-After: carPassengerFactory
+[main] INFO  com.serheev.beans.CargoCarBean  - PP-After: carPassengerFactory
+[main] INFO  com.serheev.app.InitBeans  - PP-Before: carPassengerFactory
+[main] INFO  com.serheev.beans.MechanicBean  - PP-Before: carPassengerFactory
+[main] INFO  com.serheev.beans.CargoCarBean  - PP-Before: carPassengerFactory
+[main] INFO  com.serheev.beans.CargoCarBean  - PP-Before: carPassengerFactory
+[main] INFO  com.serheev.app.InitBeans  - PP-After: carPassengerFactory
+[main] INFO  com.serheev.beans.MechanicBean  - PP-After: carPassengerFactory
+[main] INFO  com.serheev.beans.CargoCarBean  - PP-After: carPassengerFactory
+[main] INFO  com.serheev.beans.CargoCarBean  - PP-After: carPassengerFactory
+[main] INFO  com.serheev.app.InitBeans  - PP-Before: carCargoFactory
+[main] INFO  com.serheev.beans.MechanicBean  - PP-Before: carCargoFactory
+[main] INFO  com.serheev.beans.CargoCarBean  - PP-Before: carCargoFactory
+[main] INFO  com.serheev.beans.CargoCarBean  - PP-Before: carCargoFactory
+[main] INFO  com.serheev.app.InitBeans  - PP-After: carCargoFactory
+[main] INFO  com.serheev.beans.MechanicBean  - PP-After: carCargoFactory
+[main] INFO  com.serheev.beans.CargoCarBean  - PP-After: carCargoFactory
+[main] INFO  com.serheev.beans.CargoCarBean  - PP-After: carCargoFactory
+[main] INFO  com.serheev.app.InitBeans  - PP-Before: carCargoFactory
+[main] INFO  com.serheev.beans.MechanicBean  - PP-Before: carCargoFactory
+[main] INFO  com.serheev.beans.CargoCarBean  - PP-Before: carCargoFactory
+[main] INFO  com.serheev.beans.CargoCarBean  - PP-Before: carCargoFactory
+[main] INFO  com.serheev.app.InitBeans  - PP-After: carCargoFactory
+[main] INFO  com.serheev.beans.MechanicBean  - PP-After: carCargoFactory
+[main] INFO  com.serheev.beans.CargoCarBean  - PP-After: carCargoFactory
+[main] INFO  com.serheev.beans.CargoCarBean  - PP-After: carCargoFactory
+[main] INFO  com.serheev.beans.DriverBean  - Doing Destruction...
+[main] INFO  com.serheev.app.InitBeans  - PP-Before: driverBean
+[main] INFO  com.serheev.beans.MechanicBean  - PP-Before: driverBean
+[main] INFO  com.serheev.beans.CargoCarBean  - PP-Before: driverBean
+[main] INFO  com.serheev.beans.CargoCarBean  - PP-Before: driverBean
+[main] INFO  com.serheev.beans.DriverBean  - Doing initialization...
+[main] INFO  com.serheev.app.InitBeans  - PP-After: driverBean
+[main] INFO  com.serheev.beans.MechanicBean  - PP-After: driverBean
+[main] INFO  com.serheev.beans.CargoCarBean  - PP-After: driverBean
+[main] INFO  com.serheev.beans.CargoCarBean  - PP-After: driverBean
+[main] INFO  com.serheev.app.InitBeans  - PP-Before: driverEmployee
+[main] INFO  com.serheev.beans.MechanicBean  - PP-Before: driverEmployee
+[main] INFO  com.serheev.beans.CargoCarBean  - PP-Before: driverEmployee
+[main] INFO  com.serheev.beans.CargoCarBean  - PP-Before: driverEmployee
+[main] INFO  com.serheev.app.InitBeans  - PP-After: driverEmployee
+[main] INFO  com.serheev.beans.MechanicBean  - PP-After: driverEmployee
+[main] INFO  com.serheev.beans.CargoCarBean  - PP-After: driverEmployee
+[main] INFO  com.serheev.beans.CargoCarBean  - PP-After: driverEmployee
+[main] INFO  com.serheev.app.InitBeans  - PP-Before: mechanicEmployee
+[main] INFO  com.serheev.beans.MechanicBean  - PP-Before: mechanicEmployee
+[main] INFO  com.serheev.beans.CargoCarBean  - PP-Before: mechanicEmployee
+[main] INFO  com.serheev.beans.CargoCarBean  - PP-Before: mechanicEmployee
+[main] INFO  com.serheev.app.InitBeans  - PP-After: mechanicEmployee
+[main] INFO  com.serheev.beans.MechanicBean  - PP-After: mechanicEmployee
+[main] INFO  com.serheev.beans.CargoCarBean  - PP-After: mechanicEmployee
+[main] INFO  com.serheev.beans.CargoCarBean  - PP-After: mechanicEmployee
+[main] INFO  com.serheev.app.InitBeans  - PP-Before: carPassengerFactory
+[main] INFO  com.serheev.beans.MechanicBean  - PP-Before: carPassengerFactory
+[main] INFO  com.serheev.beans.CargoCarBean  - PP-Before: carPassengerFactory
+[main] INFO  com.serheev.beans.CargoCarBean  - PP-Before: carPassengerFactory
+[main] INFO  com.serheev.app.InitBeans  - PP-After: carPassengerFactory
+[main] INFO  com.serheev.beans.MechanicBean  - PP-After: carPassengerFactory
+[main] INFO  com.serheev.beans.CargoCarBean  - PP-After: carPassengerFactory
+[main] INFO  com.serheev.beans.CargoCarBean  - PP-After: carPassengerFactory
+[main] INFO  com.serheev.app.InitBeans  - PP-Before: carPassengerFactory
+[main] INFO  com.serheev.beans.MechanicBean  - PP-Before: carPassengerFactory
+[main] INFO  com.serheev.beans.CargoCarBean  - PP-Before: carPassengerFactory
+[main] INFO  com.serheev.beans.CargoCarBean  - PP-Before: carPassengerFactory
+[main] INFO  com.serheev.app.InitBeans  - PP-After: carPassengerFactory
+[main] INFO  com.serheev.beans.MechanicBean  - PP-After: carPassengerFactory
+[main] INFO  com.serheev.beans.CargoCarBean  - PP-After: carPassengerFactory
+[main] INFO  com.serheev.beans.CargoCarBean  - PP-After: carPassengerFactory
+[main] INFO  com.serheev.app.InitBeans  - PP-Before: carCargoFactory
+[main] INFO  com.serheev.beans.MechanicBean  - PP-Before: carCargoFactory
+[main] INFO  com.serheev.beans.CargoCarBean  - PP-Before: carCargoFactory
+[main] INFO  com.serheev.beans.CargoCarBean  - PP-Before: carCargoFactory
+[main] INFO  com.serheev.app.InitBeans  - PP-After: carCargoFactory
+[main] INFO  com.serheev.beans.MechanicBean  - PP-After: carCargoFactory
+[main] INFO  com.serheev.beans.CargoCarBean  - PP-After: carCargoFactory
+[main] INFO  com.serheev.beans.CargoCarBean  - PP-After: carCargoFactory
+[main] INFO  com.serheev.app.InitBeans  - PP-Before: carCargoFactory
+[main] INFO  com.serheev.beans.MechanicBean  - PP-Before: carCargoFactory
+[main] INFO  com.serheev.beans.CargoCarBean  - PP-Before: carCargoFactory
+[main] INFO  com.serheev.beans.CargoCarBean  - PP-Before: carCargoFactory
+[main] INFO  com.serheev.app.InitBeans  - PP-After: carCargoFactory
+[main] INFO  com.serheev.beans.MechanicBean  - PP-After: carCargoFactory
+[main] INFO  com.serheev.beans.CargoCarBean  - PP-After: carCargoFactory
+[main] INFO  com.serheev.beans.CargoCarBean  - PP-After: carCargoFactory
+[main] INFO  com.serheev.beans.DriverBean  - Doing Destruction...
+[main] INFO  com.serheev.app.InitBeans  - PP-Before: driverBean
+[main] INFO  com.serheev.beans.MechanicBean  - PP-Before: driverBean
+[main] INFO  com.serheev.beans.CargoCarBean  - PP-Before: driverBean
+[main] INFO  com.serheev.beans.CargoCarBean  - PP-Before: driverBean
+[main] INFO  com.serheev.beans.DriverBean  - Doing initialization...
+[main] INFO  com.serheev.app.InitBeans  - PP-After: driverBean
+[main] INFO  com.serheev.beans.MechanicBean  - PP-After: driverBean
+[main] INFO  com.serheev.beans.CargoCarBean  - PP-After: driverBean
+[main] INFO  com.serheev.beans.CargoCarBean  - PP-After: driverBean
+[main] INFO  com.serheev.app.InitBeans  - PP-Before: driverEmployee
+[main] INFO  com.serheev.beans.MechanicBean  - PP-Before: driverEmployee
+[main] INFO  com.serheev.beans.CargoCarBean  - PP-Before: driverEmployee
+[main] INFO  com.serheev.beans.CargoCarBean  - PP-Before: driverEmployee
+[main] INFO  com.serheev.app.InitBeans  - PP-After: driverEmployee
+[main] INFO  com.serheev.beans.MechanicBean  - PP-After: driverEmployee
+[main] INFO  com.serheev.beans.CargoCarBean  - PP-After: driverEmployee
+[main] INFO  com.serheev.beans.CargoCarBean  - PP-After: driverEmployee
+[main] INFO  com.serheev.app.InitBeans  - PP-Before: mechanicEmployee
+[main] INFO  com.serheev.beans.MechanicBean  - PP-Before: mechanicEmployee
+[main] INFO  com.serheev.beans.CargoCarBean  - PP-Before: mechanicEmployee
+[main] INFO  com.serheev.beans.CargoCarBean  - PP-Before: mechanicEmployee
+[main] INFO  com.serheev.app.InitBeans  - PP-After: mechanicEmployee
+[main] INFO  com.serheev.beans.MechanicBean  - PP-After: mechanicEmployee
+[main] INFO  com.serheev.beans.CargoCarBean  - PP-After: mechanicEmployee
+[main] INFO  com.serheev.beans.CargoCarBean  - PP-After: mechanicEmployee
+[main] INFO  com.serheev.beans.HRDepartmentBean  - I'm a driver!. I have to do drive a car
+[main] INFO  com.serheev.beans.HRDepartmentBean  - I'm a mechanic!. I have to do fix a car
+[main] INFO  com.serheev.beans.DriverBean  - Doing Destruction...
+[main] INFO  com.serheev.app.InitBeans  - PP-Before: driverBean
+[main] INFO  com.serheev.beans.MechanicBean  - PP-Before: driverBean
+[main] INFO  com.serheev.beans.CargoCarBean  - PP-Before: driverBean
+[main] INFO  com.serheev.beans.CargoCarBean  - PP-Before: driverBean
+[main] INFO  com.serheev.beans.DriverBean  - Doing initialization...
+[main] INFO  com.serheev.app.InitBeans  - PP-After: driverBean
+[main] INFO  com.serheev.beans.MechanicBean  - PP-After: driverBean
+[main] INFO  com.serheev.beans.CargoCarBean  - PP-After: driverBean
+[main] INFO  com.serheev.beans.CargoCarBean  - PP-After: driverBean
+[main] INFO  com.serheev.app.InitBeans  - PP-Before: driverEmployee
+[main] INFO  com.serheev.beans.MechanicBean  - PP-Before: driverEmployee
+[main] INFO  com.serheev.beans.CargoCarBean  - PP-Before: driverEmployee
+[main] INFO  com.serheev.beans.CargoCarBean  - PP-Before: driverEmployee
+[main] INFO  com.serheev.app.InitBeans  - PP-After: driverEmployee
+[main] INFO  com.serheev.beans.MechanicBean  - PP-After: driverEmployee
+[main] INFO  com.serheev.beans.CargoCarBean  - PP-After: driverEmployee
+[main] INFO  com.serheev.beans.CargoCarBean  - PP-After: driverEmployee
+[main] INFO  com.serheev.app.InitBeans  - PP-Before: mechanicEmployee
+[main] INFO  com.serheev.beans.MechanicBean  - PP-Before: mechanicEmployee
+[main] INFO  com.serheev.beans.CargoCarBean  - PP-Before: mechanicEmployee
+[main] INFO  com.serheev.beans.CargoCarBean  - PP-Before: mechanicEmployee
+[main] INFO  com.serheev.app.InitBeans  - PP-After: mechanicEmployee
+[main] INFO  com.serheev.beans.MechanicBean  - PP-After: mechanicEmployee
+[main] INFO  com.serheev.beans.CargoCarBean  - PP-After: mechanicEmployee
+[main] INFO  com.serheev.beans.CargoCarBean  - PP-After: mechanicEmployee
+[main] INFO  com.serheev.beans.HRDepartmentBean  - I'm a driver!. I have to do drive a car
+[main] INFO  com.serheev.beans.HRDepartmentBean  - I'm a mechanic!. I have to do fix a car
+[main] INFO  com.serheev.app.RunSpring  - com.serheev.beans.HRDepartmentBean@51e2adc7
+[main] INFO  com.serheev.app.RunSpring  - com.serheev.beans.HRDepartmentBean@1a8a8f7c
+[main] INFO  com.serheev.beans.DriverBean  - Doing Destruction...
+[main] INFO  com.serheev.app.InitBeans  - PP-Before: driverBean
+[main] INFO  com.serheev.beans.MechanicBean  - PP-Before: driverBean
+[main] INFO  com.serheev.beans.CargoCarBean  - PP-Before: driverBean
+[main] INFO  com.serheev.beans.CargoCarBean  - PP-Before: driverBean
+[main] INFO  com.serheev.beans.DriverBean  - Doing initialization...
+[main] INFO  com.serheev.app.InitBeans  - PP-After: driverBean
+[main] INFO  com.serheev.beans.MechanicBean  - PP-After: driverBean
+[main] INFO  com.serheev.beans.CargoCarBean  - PP-After: driverBean
+[main] INFO  com.serheev.beans.CargoCarBean  - PP-After: driverBean
+[main] INFO  com.serheev.app.InitBeans  - PP-Before: driverEmployee
+[main] INFO  com.serheev.beans.MechanicBean  - PP-Before: driverEmployee
+[main] INFO  com.serheev.beans.CargoCarBean  - PP-Before: driverEmployee
+[main] INFO  com.serheev.beans.CargoCarBean  - PP-Before: driverEmployee
+[main] INFO  com.serheev.app.InitBeans  - PP-After: driverEmployee
+[main] INFO  com.serheev.beans.MechanicBean  - PP-After: driverEmployee
+[main] INFO  com.serheev.beans.CargoCarBean  - PP-After: driverEmployee
+[main] INFO  com.serheev.beans.CargoCarBean  - PP-After: driverEmployee
+[main] INFO  com.serheev.app.InitBeans  - PP-Before: mechanicEmployee
+[main] INFO  com.serheev.beans.MechanicBean  - PP-Before: mechanicEmployee
+[main] INFO  com.serheev.beans.CargoCarBean  - PP-Before: mechanicEmployee
+[main] INFO  com.serheev.beans.CargoCarBean  - PP-Before: mechanicEmployee
+[main] INFO  com.serheev.app.InitBeans  - PP-After: mechanicEmployee
+[main] INFO  com.serheev.beans.MechanicBean  - PP-After: mechanicEmployee
+[main] INFO  com.serheev.beans.CargoCarBean  - PP-After: mechanicEmployee
+[main] INFO  com.serheev.beans.CargoCarBean  - PP-After: mechanicEmployee
+[main] INFO  com.serheev.beans.HRDepartmentBean  - I'm a driver!. I have to do drive a car
+[main] INFO  com.serheev.beans.HRDepartmentBean  - I'm a mechanic!. I have to do fix a car
+[main] INFO  com.serheev.app.RunSpring  - com.serheev.beans.HRDepartmentBean@51e2adc7
+[main] INFO  com.serheev.app.RunSpring  - com.serheev.beans.HRDepartmentBean@1a8a8f7c
+[main] INFO  com.serheev.app.InitBeans  - PP-Before: carPassengerFactory
+[main] INFO  com.serheev.beans.MechanicBean  - PP-Before: carPassengerFactory
+[main] INFO  com.serheev.beans.CargoCarBean  - PP-Before: carPassengerFactory
+[main] INFO  com.serheev.beans.CargoCarBean  - PP-Before: carPassengerFactory
+[main] INFO  com.serheev.app.InitBeans  - PP-After: carPassengerFactory
+[main] INFO  com.serheev.beans.MechanicBean  - PP-After: carPassengerFactory
+[main] INFO  com.serheev.beans.CargoCarBean  - PP-After: carPassengerFactory
+[main] INFO  com.serheev.beans.CargoCarBean  - PP-After: carPassengerFactory
+[main] INFO  com.serheev.app.InitBeans  - PP-Before: carPassengerFactory
+[main] INFO  com.serheev.beans.MechanicBean  - PP-Before: carPassengerFactory
+[main] INFO  com.serheev.beans.CargoCarBean  - PP-Before: carPassengerFactory
+[main] INFO  com.serheev.beans.CargoCarBean  - PP-Before: carPassengerFactory
+[main] INFO  com.serheev.app.InitBeans  - PP-After: carPassengerFactory
+[main] INFO  com.serheev.beans.MechanicBean  - PP-After: carPassengerFactory
+[main] INFO  com.serheev.beans.CargoCarBean  - PP-After: carPassengerFactory
+[main] INFO  com.serheev.beans.CargoCarBean  - PP-After: carPassengerFactory
+[main] INFO  com.serheev.app.InitBeans  - PP-Before: carCargoFactory
+[main] INFO  com.serheev.beans.MechanicBean  - PP-Before: carCargoFactory
+[main] INFO  com.serheev.beans.CargoCarBean  - PP-Before: carCargoFactory
+[main] INFO  com.serheev.beans.CargoCarBean  - PP-Before: carCargoFactory
+[main] INFO  com.serheev.app.InitBeans  - PP-After: carCargoFactory
+[main] INFO  com.serheev.beans.MechanicBean  - PP-After: carCargoFactory
+[main] INFO  com.serheev.beans.CargoCarBean  - PP-After: carCargoFactory
+[main] INFO  com.serheev.beans.CargoCarBean  - PP-After: carCargoFactory
+[main] INFO  com.serheev.app.InitBeans  - PP-Before: carCargoFactory
+[main] INFO  com.serheev.beans.MechanicBean  - PP-Before: carCargoFactory
+[main] INFO  com.serheev.beans.CargoCarBean  - PP-Before: carCargoFactory
+[main] INFO  com.serheev.beans.CargoCarBean  - PP-Before: carCargoFactory
+[main] INFO  com.serheev.app.InitBeans  - PP-After: carCargoFactory
+[main] INFO  com.serheev.beans.MechanicBean  - PP-After: carCargoFactory
+[main] INFO  com.serheev.beans.CargoCarBean  - PP-After: carCargoFactory
+[main] INFO  com.serheev.beans.CargoCarBean  - PP-After: carCargoFactory
+[main] INFO  com.serheev.beans.CarFactoryBean  - Simon says - This is a Passenger car (Unknown model : Petrol : Manual)
+[main] INFO  com.serheev.beans.CarFactoryBean  - Simon says - This is a Passenger car (Unknown model : Petrol : Manual)
+[main] INFO  com.serheev.beans.CarFactoryBean  - Simon says - This is a Truck (Unknown model : Petrol : Manual)
+[main] INFO  com.serheev.beans.CarFactoryBean  - Simon says - This is a Truck (Unknown model : Petrol : Manual)
+[main] INFO  com.serheev.beans.CarFactoryBean  - Simon says - This is a Passenger car (A6 : Petrol : Manual)
+[main] INFO  com.serheev.beans.CarFactoryBean  - Simon says - This is a Passenger car (M5 : Petrol : Manual)
+[main] INFO  com.serheev.beans.CarFactoryBean  - Simon says - This is a Truck (TGS : Petrol : Manual)
+[main] INFO  com.serheev.beans.CarFactoryBean  - Simon says - This is a Truck (Euro 6 : Petrol : Manual)
+[main] INFO  com.serheev.app.RunSpring  - com.serheev.beans.CarFactoryBean@2353b3e6
+[main] INFO  com.serheev.app.RunSpring  - com.serheev.beans.CarFactoryBean@631330c
+[main] INFO  com.serheev.beans.DriverBean  - Doing Destruction...
+[main] INFO  com.serheev.app.InitBeans  - PP-Before: driverBean
+[main] INFO  com.serheev.beans.MechanicBean  - PP-Before: driverBean
+[main] INFO  com.serheev.beans.CargoCarBean  - PP-Before: driverBean
+[main] INFO  com.serheev.beans.CargoCarBean  - PP-Before: driverBean
+[main] INFO  com.serheev.beans.DriverBean  - Doing initialization...
+[main] INFO  com.serheev.app.InitBeans  - PP-After: driverBean
+[main] INFO  com.serheev.beans.MechanicBean  - PP-After: driverBean
+[main] INFO  com.serheev.beans.CargoCarBean  - PP-After: driverBean
+[main] INFO  com.serheev.beans.CargoCarBean  - PP-After: driverBean
+[main] INFO  com.serheev.app.InitBeans  - PP-Before: driverEmployee
+[main] INFO  com.serheev.beans.MechanicBean  - PP-Before: driverEmployee
+[main] INFO  com.serheev.beans.CargoCarBean  - PP-Before: driverEmployee
+[main] INFO  com.serheev.beans.CargoCarBean  - PP-Before: driverEmployee
+[main] INFO  com.serheev.app.InitBeans  - PP-After: driverEmployee
+[main] INFO  com.serheev.beans.MechanicBean  - PP-After: driverEmployee
+[main] INFO  com.serheev.beans.CargoCarBean  - PP-After: driverEmployee
+[main] INFO  com.serheev.beans.CargoCarBean  - PP-After: driverEmployee
+[main] INFO  com.serheev.app.InitBeans  - PP-Before: mechanicEmployee
+[main] INFO  com.serheev.beans.MechanicBean  - PP-Before: mechanicEmployee
+[main] INFO  com.serheev.beans.CargoCarBean  - PP-Before: mechanicEmployee
+[main] INFO  com.serheev.beans.CargoCarBean  - PP-Before: mechanicEmployee
+[main] INFO  com.serheev.app.InitBeans  - PP-After: mechanicEmployee
+[main] INFO  com.serheev.beans.MechanicBean  - PP-After: mechanicEmployee
+[main] INFO  com.serheev.beans.CargoCarBean  - PP-After: mechanicEmployee
+[main] INFO  com.serheev.beans.CargoCarBean  - PP-After: mechanicEmployee
+[main] INFO  com.serheev.beans.HRDepartmentBean  - I'm a driver!. I have to do drive a car
+[main] INFO  com.serheev.beans.HRDepartmentBean  - I'm a mechanic!. I have to do fix a car
+[main] INFO  com.serheev.app.RunSpring  - com.serheev.beans.HRDepartmentBean@7a187f14
+[main] INFO  com.serheev.app.RunSpring  - com.serheev.beans.HRDepartmentBean@6f195bc3
+[main] INFO  com.serheev.app.InitBeans  - PP-Before: carPassengerFactory
+[main] INFO  com.serheev.beans.MechanicBean  - PP-Before: carPassengerFactory
+[main] INFO  com.serheev.beans.CargoCarBean  - PP-Before: carPassengerFactory
+[main] INFO  com.serheev.beans.CargoCarBean  - PP-Before: carPassengerFactory
+[main] INFO  com.serheev.app.InitBeans  - PP-After: carPassengerFactory
+[main] INFO  com.serheev.beans.MechanicBean  - PP-After: carPassengerFactory
+[main] INFO  com.serheev.beans.CargoCarBean  - PP-After: carPassengerFactory
+[main] INFO  com.serheev.beans.CargoCarBean  - PP-After: carPassengerFactory
+[main] INFO  com.serheev.app.InitBeans  - PP-Before: carPassengerFactory
+[main] INFO  com.serheev.beans.MechanicBean  - PP-Before: carPassengerFactory
+[main] INFO  com.serheev.beans.CargoCarBean  - PP-Before: carPassengerFactory
+[main] INFO  com.serheev.beans.CargoCarBean  - PP-Before: carPassengerFactory
+[main] INFO  com.serheev.app.InitBeans  - PP-After: carPassengerFactory
+[main] INFO  com.serheev.beans.MechanicBean  - PP-After: carPassengerFactory
+[main] INFO  com.serheev.beans.CargoCarBean  - PP-After: carPassengerFactory
+[main] INFO  com.serheev.beans.CargoCarBean  - PP-After: carPassengerFactory
+[main] INFO  com.serheev.app.InitBeans  - PP-Before: carCargoFactory
+[main] INFO  com.serheev.beans.MechanicBean  - PP-Before: carCargoFactory
+[main] INFO  com.serheev.beans.CargoCarBean  - PP-Before: carCargoFactory
+[main] INFO  com.serheev.beans.CargoCarBean  - PP-Before: carCargoFactory
+[main] INFO  com.serheev.app.InitBeans  - PP-After: carCargoFactory
+[main] INFO  com.serheev.beans.MechanicBean  - PP-After: carCargoFactory
+[main] INFO  com.serheev.beans.CargoCarBean  - PP-After: carCargoFactory
+[main] INFO  com.serheev.beans.CargoCarBean  - PP-After: carCargoFactory
+[main] INFO  com.serheev.app.InitBeans  - PP-Before: carCargoFactory
+[main] INFO  com.serheev.beans.MechanicBean  - PP-Before: carCargoFactory
+[main] INFO  com.serheev.beans.CargoCarBean  - PP-Before: carCargoFactory
+[main] INFO  com.serheev.beans.CargoCarBean  - PP-Before: carCargoFactory
+[main] INFO  com.serheev.app.InitBeans  - PP-After: carCargoFactory
+[main] INFO  com.serheev.beans.MechanicBean  - PP-After: carCargoFactory
+[main] INFO  com.serheev.beans.CargoCarBean  - PP-After: carCargoFactory
+[main] INFO  com.serheev.beans.CargoCarBean  - PP-After: carCargoFactory
+[main] INFO  com.serheev.beans.CarFactoryBean  - Simon says - This is a Passenger car (Unknown model : Petrol : Manual)
+[main] INFO  com.serheev.beans.CarFactoryBean  - Simon says - This is a Passenger car (Unknown model : Petrol : Manual)
+[main] INFO  com.serheev.beans.CarFactoryBean  - Simon says - This is a Truck (Unknown model : Petrol : Manual)
+[main] INFO  com.serheev.beans.CarFactoryBean  - Simon says - This is a Truck (Unknown model : Petrol : Manual)
+[main] INFO  com.serheev.beans.CarFactoryBean  - Simon says - This is a Passenger car (A6 : Petrol : Manual)
+[main] INFO  com.serheev.beans.CarFactoryBean  - Simon says - This is a Passenger car (M5 : Petrol : Manual)
+[main] INFO  com.serheev.beans.CarFactoryBean  - Simon says - This is a Truck (TGS : Petrol : Manual)
+[main] INFO  com.serheev.beans.CarFactoryBean  - Simon says - This is a Truck (Euro 6 : Petrol : Manual)
+[main] INFO  com.serheev.app.RunSpring  - com.serheev.beans.CarFactoryBean@51e2adc7
+[main] INFO  com.serheev.app.RunSpring  - com.serheev.beans.CarFactoryBean@1a8a8f7c
+[main] INFO  com.serheev.beans.DriverBean  - Doing Destruction...
+[main] INFO  com.serheev.app.InitBeans  - PP-Before: driverBean
+[main] INFO  com.serheev.beans.DriverBean  - Doing initialization...
+[main] INFO  com.serheev.app.InitBeans  - PP-After: driverBean
+[main] INFO  com.serheev.app.InitBeans  - PP-Before: driverEmployee
+[main] INFO  com.serheev.app.InitBeans  - PP-After: driverEmployee
+[main] INFO  com.serheev.app.InitBeans  - PP-Before: mechanicEmployee
+[main] INFO  com.serheev.app.InitBeans  - PP-After: mechanicEmployee
+[main] INFO  com.serheev.beans.HRDepartmentBean  - I'm a driver!. I have to do drive a car
+[main] INFO  com.serheev.beans.HRDepartmentBean  - I'm a mechanic!. I have to do fix a car
+[main] INFO  com.serheev.app.RunSpring  - com.serheev.beans.HRDepartmentBean@51e2adc7
+[main] INFO  com.serheev.app.RunSpring  - com.serheev.beans.HRDepartmentBean@1a8a8f7c
+[main] INFO  com.serheev.app.InitBeans  - PP-Before: carPassengerFactory
+[main] INFO  com.serheev.app.InitBeans  - PP-After: carPassengerFactory
+[main] INFO  com.serheev.app.InitBeans  - PP-Before: carPassengerFactory
+[main] INFO  com.serheev.app.InitBeans  - PP-After: carPassengerFactory
+[main] INFO  com.serheev.app.InitBeans  - PP-Before: carCargoFactory
+[main] INFO  com.serheev.app.InitBeans  - PP-After: carCargoFactory
+[main] INFO  com.serheev.app.InitBeans  - PP-Before: carCargoFactory
+[main] INFO  com.serheev.app.InitBeans  - PP-After: carCargoFactory
+[main] INFO  com.serheev.beans.CarFactoryBean  - Simon says - This is a Passenger car (Unknown model : Petrol : Manual)
+[main] INFO  com.serheev.beans.CarFactoryBean  - Simon says - This is a Passenger car (Unknown model : Petrol : Manual)
+[main] INFO  com.serheev.beans.CarFactoryBean  - Simon says - This is a Truck (Unknown model : Petrol : Manual)
+[main] INFO  com.serheev.beans.CarFactoryBean  - Simon says - This is a Truck (Unknown model : Petrol : Manual)
+[main] INFO  com.serheev.beans.CarFactoryBean  - Simon says - This is a Passenger car (A6 : Petrol : Manual)
+[main] INFO  com.serheev.beans.CarFactoryBean  - Simon says - This is a Passenger car (M5 : Petrol : Manual)
+[main] INFO  com.serheev.beans.CarFactoryBean  - Simon says - This is a Truck (TGS : Petrol : Manual)
+[main] INFO  com.serheev.beans.CarFactoryBean  - Simon says - This is a Truck (Euro 6 : Petrol : Manual)
+[main] INFO  com.serheev.app.RunSpring  - com.serheev.beans.CarFactoryBean@2353b3e6
+[main] INFO  com.serheev.app.RunSpring  - com.serheev.beans.CarFactoryBean@631330c
+[main] INFO  com.serheev.beans.DriverBean  - Doing Destruction...
+[main] INFO  com.serheev.app.InitBeans  - PP-Before: driverBean
+[main] INFO  com.serheev.beans.DriverBean  - Doing initialization...
+[main] INFO  com.serheev.app.InitBeans  - PP-After: driverBean
+[main] INFO  com.serheev.app.InitBeans  - PP-Before: driverEmployee
+[main] INFO  com.serheev.app.InitBeans  - PP-After: driverEmployee
+[main] INFO  com.serheev.app.InitBeans  - PP-Before: mechanicEmployee
+[main] INFO  com.serheev.app.InitBeans  - PP-After: mechanicEmployee
+[main] INFO  com.serheev.app.InitBeans  - PP-Before: carPassengerFactory
+[main] INFO  com.serheev.app.InitBeans  - PP-After: carPassengerFactory
+[main] INFO  com.serheev.app.InitBeans  - PP-Before: carPassengerFactory
+[main] INFO  com.serheev.app.InitBeans  - PP-After: carPassengerFactory
+[main] INFO  com.serheev.app.InitBeans  - PP-Before: carCargoFactory
+[main] INFO  com.serheev.app.InitBeans  - PP-After: carCargoFactory
+[main] INFO  com.serheev.app.InitBeans  - PP-Before: carCargoFactory
+[main] INFO  com.serheev.app.InitBeans  - PP-After: carCargoFactory
+[main] INFO  com.serheev.beans.DriverBean  - Doing Destruction...

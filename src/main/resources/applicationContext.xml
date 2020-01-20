@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns:context="http://www.springframework.org/schema/context"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans
+        http://www.springframework.org/schema/beans/spring-beans.xsd
+        http://www.springframework.org/schema/context
+        http://www.springframework.org/schema/context/spring-context.xsd">
+
+    <context:property-placeholder location="classpath:car.properties"/>
+
+    <bean class="com.serheev.app.InitBeans"/>
+    <bean id="driverBean"
+          class="com.serheev.beans.DriverBean"
+          init-method="doMyInit"
+          destroy-method="doMyDestroy">
+    </bean>
+    <bean id="mechanicBean"
+          class="com.serheev.beans.MechanicBean">
+    </bean>
+    <bean id="driverEmployee"
+          class="com.serheev.beans.HRDepartmentBean"
+          scope="singleton">
+        <property name="employee" ref="driverBean"/>
+        <property name="occupation" value="drive a car"/>
+    </bean>
+    <bean id="mechanicEmployee"
+          class="com.serheev.beans.HRDepartmentBean"
+          scope="singleton">
+        <property name="employee" ref="mechanicBean"/>
+        <property name="occupation" value="fix a car"/>
+    </bean>
+    <bean id="carPassengerBean"
+          class="com.serheev.beans.PassengerCarBean">
+    </bean>
+    <bean id="carCargoBean"
+          class="com.serheev.beans.CargoCarBean">
+    </bean>
+    <bean id="carPassengerFactory"
+          class="com.serheev.beans.CarFactoryBean"
+          scope="prototype">
+        <property name="car" ref="carPassengerBean"/>
+        <property name="model" value="${car.model}"/>
+        <property name="engine" value="${car.engine}"/>
+        <property name="transmission" value="${car.transmission}"/>
+    </bean>
+    <bean id="carCargoFactory"
+          class="com.serheev.beans.CarFactoryBean"
+          scope="prototype">
+        <property name="car" ref="carCargoBean"/>
+        <property name="model" value="${car.model}"/>
+        <property name="engine" value="${car.engine}"/>
+        <property name="transmission" value="${car.transmission}"/>
+    </bean>
+</beans>
